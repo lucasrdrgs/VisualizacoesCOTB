@@ -1,0 +1,2593 @@
+UF,Ano,CID10,Total
+RO,2000,Newborn respiratory distress syndrome,71
+RO,2000,Respiratory failure of newborn,64
+RO,2000,"Bacterial sepsis of newborn, unspecified",53
+RO,2000,Preterm [premature] newborn [other],30
+RO,2000,Ill-defined and unknown cause of mortality,24
+RO,2000,Others,457
+RO,2001,Respiratory failure of newborn,90
+RO,2001,Newborn respiratory distress syndrome,57
+RO,2001,"Bacterial sepsis of newborn, unspecified",28
+RO,2001,Ill-defined and unknown cause of mortality,24
+RO,2001,Unattended death,21
+RO,2001,Others,423
+RO,2002,Newborn respiratory distress syndrome,62
+RO,2002,Respiratory failure of newborn,54
+RO,2002,"Bacterial sepsis of newborn, unspecified",38
+RO,2002,Ill-defined and unknown cause of mortality,23
+RO,2002,"Birth asphyxia, unspecified",21
+RO,2002,Others,413
+RO,2003,Newborn respiratory distress syndrome,73
+RO,2003,Respiratory failure of newborn,53
+RO,2003,Ill-defined and unknown cause of mortality,33
+RO,2003,"Bacterial sepsis of newborn, unspecified",25
+RO,2003,"Infectious gastroenteritis and colitis, unspecified",22
+RO,2003,Others,398
+RO,2004,Newborn respiratory distress syndrome,59
+RO,2004,Respiratory failure of newborn,41
+RO,2004,"Bacterial sepsis of newborn, unspecified",34
+RO,2004,Neonatal cardiac dysrhythmia,27
+RO,2004,Ill-defined and unknown cause of mortality,24
+RO,2004,Others,377
+RO,2005,Newborn respiratory distress syndrome,58
+RO,2005,"Bacterial sepsis of newborn, unspecified",47
+RO,2005,Ill-defined and unknown cause of mortality,26
+RO,2005,Respiratory failure of newborn,22
+RO,2005,"Birth asphyxia, unspecified",19
+RO,2005,Others,350
+RO,2006,"Bacterial sepsis of newborn, unspecified",66
+RO,2006,Newborn respiratory distress syndrome,47
+RO,2006,"Birth asphyxia, unspecified",18
+RO,2006,Preterm [premature] newborn [other],16
+RO,2006,"Congenital malformation of heart, unspecified",15
+RO,2006,Others,311
+RO,2007,"Bacterial sepsis of newborn, unspecified",55
+RO,2007,Newborn respiratory distress syndrome,30
+RO,2007,"Birth asphyxia, unspecified",25
+RO,2007,"Infectious gastroenteritis and colitis, unspecified",23
+RO,2007,"Congenital malformation of heart, unspecified",20
+RO,2007,Others,290
+RO,2008,"Bacterial sepsis of newborn, unspecified",48
+RO,2008,Newborn respiratory distress syndrome,26
+RO,2008,"Congenital malformation of heart, unspecified",21
+RO,2008,Ill-defined and unknown cause of mortality,14
+RO,2008,"Pneumonia, unspecified organism",13
+RO,2008,Others,317
+RO,2009,"Bacterial sepsis of newborn, unspecified",72
+RO,2009,Newborn respiratory distress syndrome,31
+RO,2009,"Congenital malformation of heart, unspecified",26
+RO,2009,"Pneumonia, unspecified organism",16
+RO,2009,"Infectious gastroenteritis and colitis, unspecified",16
+RO,2009,Others,293
+RO,2010,"Bacterial sepsis of newborn, unspecified",66
+RO,2010,Newborn respiratory distress syndrome,31
+RO,2010,"Congenital malformation of heart, unspecified",22
+RO,2010,"Birth asphyxia, unspecified",22
+RO,2010,Pulmonary hemorrhage originating in the perinatal period,16
+RO,2010,Others,310
+RO,2011,"Bacterial sepsis of newborn, unspecified",37
+RO,2011,Newborn respiratory distress syndrome,31
+RO,2011,"Sepsis, unspecified organism",14
+RO,2011,"Pneumonia, unspecified organism",14
+RO,2011,"Neonatal aspiration, unspecified",14
+RO,2011,Others,255
+RO,2012,"Bacterial sepsis of newborn, unspecified",36
+RO,2012,Newborn respiratory distress syndrome,35
+RO,2012,"Birth asphyxia, unspecified",27
+RO,2012,"Congenital malformation of heart, unspecified",17
+RO,2012,"Sepsis, unspecified organism",14
+RO,2012,Others,243
+RO,2013,"Bacterial sepsis of newborn, unspecified",41
+RO,2013,Newborn respiratory distress syndrome,28
+RO,2013,"Congenital malformation of heart, unspecified",21
+RO,2013,"Sepsis, unspecified organism",15
+RO,2013,Preterm [premature] newborn [other],10
+RO,2013,Others,255
+RO,2014,"Bacterial sepsis of newborn, unspecified",52
+RO,2014,Newborn respiratory distress syndrome,34
+RO,2014,"Birth asphyxia, unspecified",19
+RO,2014,"Congenital malformation of heart, unspecified",19
+RO,2014,"Infectious gastroenteritis and colitis, unspecified",15
+RO,2014,Others,244
+RO,2015,"Bacterial sepsis of newborn, unspecified",61
+RO,2015,Newborn respiratory distress syndrome,38
+RO,2015,"Congenital malformation of heart, unspecified",26
+RO,2015,"Birth asphyxia, unspecified",18
+RO,2015,"Pneumonia, unspecified organism",17
+RO,2015,Others,235
+AC,2000,Unattended death,90
+AC,2000,Respiratory failure of newborn,33
+AC,2000,Newborn affected by abnormal uterine contractions,23
+AC,2000,Ill-defined and unknown cause of mortality,18
+AC,2000,Newborn respiratory distress syndrome,18
+AC,2000,Others,293
+AC,2001,Unattended death,49
+AC,2001,Respiratory failure of newborn,25
+AC,2001,Newborn respiratory distress syndrome,25
+AC,2001,Newborn affected by abnormal uterine contractions,19
+AC,2001,"Congenital malformation of heart, unspecified",14
+AC,2001,Others,223
+AC,2002,Unattended death,31
+AC,2002,Ill-defined and unknown cause of mortality,26
+AC,2002,Newborn respiratory distress syndrome,26
+AC,2002,Newborn affected by abnormal uterine contractions,22
+AC,2002,"Infectious gastroenteritis and colitis, unspecified",18
+AC,2002,Others,222
+AC,2003,Respiratory failure of newborn,26
+AC,2003,Unattended death,25
+AC,2003,Newborn affected by abnormal uterine contractions,24
+AC,2003,Newborn respiratory distress syndrome,23
+AC,2003,Ill-defined and unknown cause of mortality,23
+AC,2003,Others,208
+AC,2004,Unattended death,34
+AC,2004,Newborn respiratory distress syndrome,24
+AC,2004,Ill-defined and unknown cause of mortality,24
+AC,2004,Newborn affected by abnormal uterine contractions,19
+AC,2004,Respiratory failure of newborn,19
+AC,2004,Others,222
+AC,2005,Newborn respiratory distress syndrome,26
+AC,2005,Ill-defined and unknown cause of mortality,19
+AC,2005,"Congenital malformation of heart, unspecified",18
+AC,2005,"Infectious gastroenteritis and colitis, unspecified",17
+AC,2005,Newborn affected by abnormal uterine contractions,15
+AC,2005,Others,279
+AC,2006,Newborn respiratory distress syndrome,23
+AC,2006,Sepsis of newborn due to other and unspecified streptococci,23
+AC,2006,Unattended death,18
+AC,2006,"Pneumonia, unspecified organism",16
+AC,2006,"Birth asphyxia, unspecified",13
+AC,2006,Others,249
+AC,2007,Sepsis of newborn due to other and unspecified streptococci,32
+AC,2007,Newborn respiratory distress syndrome,20
+AC,2007,"Pneumonia, unspecified organism",18
+AC,2007,Preterm [premature] newborn [other],17
+AC,2007,"Congenital malformation of heart, unspecified",16
+AC,2007,Others,262
+AC,2008,Sepsis of newborn due to other and unspecified streptococci,30
+AC,2008,Newborn respiratory distress syndrome,24
+AC,2008,Preterm [premature] newborn [other],18
+AC,2008,"Pneumonia, unspecified organism",15
+AC,2008,"Congenital malformation of heart, unspecified",14
+AC,2008,Others,228
+AC,2009,Sepsis of newborn due to other and unspecified streptococci,30
+AC,2009,"Pneumonia, unspecified organism",22
+AC,2009,Newborn respiratory distress syndrome,16
+AC,2009,Preterm [premature] newborn [other],16
+AC,2009,Unattended death,11
+AC,2009,Others,239
+AC,2010,Sepsis of newborn due to other and unspecified streptococci,24
+AC,2010,Newborn respiratory distress syndrome,21
+AC,2010,Unattended death,19
+AC,2010,Ill-defined and unknown cause of mortality,12
+AC,2010,Preterm [premature] newborn [other],10
+AC,2010,Others,213
+AC,2011,Newborn respiratory distress syndrome,27
+AC,2011,Ill-defined and unknown cause of mortality,14
+AC,2011,Preterm [premature] newborn [other],12
+AC,2011,"Pneumonia, unspecified organism",11
+AC,2011,Sepsis of newborn due to other and unspecified streptococci,10
+AC,2011,Others,200
+AC,2012,Newborn respiratory distress syndrome,22
+AC,2012,Ill-defined and unknown cause of mortality,16
+AC,2012,"Infectious gastroenteritis and colitis, unspecified",15
+AC,2012,"Congenital malformation of heart, unspecified",15
+AC,2012,"Bacterial sepsis of newborn, unspecified",12
+AC,2012,Others,209
+AC,2013,"Bacterial sepsis of newborn, unspecified",34
+AC,2013,Newborn respiratory distress syndrome,28
+AC,2013,Ill-defined and unknown cause of mortality,14
+AC,2013,"Birth asphyxia, unspecified",13
+AC,2013,"Congenital malformation of heart, unspecified",13
+AC,2013,Others,198
+AC,2014,"Bacterial sepsis of newborn, unspecified",26
+AC,2014,Newborn respiratory distress syndrome,23
+AC,2014,"Pneumonia, unspecified organism",18
+AC,2014,"Congenital malformation of heart, unspecified",16
+AC,2014,"Infectious gastroenteritis and colitis, unspecified",11
+AC,2014,Others,214
+AC,2015,"Bacterial sepsis of newborn, unspecified",30
+AC,2015,Newborn respiratory distress syndrome,25
+AC,2015,"Congenital malformation of heart, unspecified",20
+AC,2015,"Pneumonia, unspecified organism",15
+AC,2015,"Infectious gastroenteritis and colitis, unspecified",10
+AC,2015,Others,208
+AM,2000,Unattended death,196
+AM,2000,Newborn respiratory distress syndrome,188
+AM,2000,"Bacterial sepsis of newborn, unspecified",153
+AM,2000,"Condition originating in the perinatal period, unspecified",129
+AM,2000,Respiratory failure of newborn,123
+AM,2000,Others,1082
+AM,2001,Newborn respiratory distress syndrome,150
+AM,2001,Unattended death,138
+AM,2001,"Condition originating in the perinatal period, unspecified",133
+AM,2001,Respiratory failure of newborn,125
+AM,2001,"Bacterial sepsis of newborn, unspecified",112
+AM,2001,Others,994
+AM,2002,Unattended death,209
+AM,2002,Newborn respiratory distress syndrome,163
+AM,2002,"Bacterial sepsis of newborn, unspecified",110
+AM,2002,"Condition originating in the perinatal period, unspecified",103
+AM,2002,Respiratory failure of newborn,90
+AM,2002,Others,919
+AM,2003,Unattended death,217
+AM,2003,Newborn respiratory distress syndrome,140
+AM,2003,"Bacterial sepsis of newborn, unspecified",110
+AM,2003,"Condition originating in the perinatal period, unspecified",107
+AM,2003,Respiratory failure of newborn,85
+AM,2003,Others,850
+AM,2004,Unattended death,131
+AM,2004,"Condition originating in the perinatal period, unspecified",101
+AM,2004,"Bacterial sepsis of newborn, unspecified",90
+AM,2004,Newborn respiratory distress syndrome,77
+AM,2004,"Pneumonia, unspecified organism",63
+AM,2004,Others,860
+AM,2005,Unattended death,110
+AM,2005,Newborn respiratory distress syndrome,83
+AM,2005,"Infectious gastroenteritis and colitis, unspecified",83
+AM,2005,"Bacterial sepsis of newborn, unspecified",82
+AM,2005,"Condition originating in the perinatal period, unspecified",75
+AM,2005,Others,893
+AM,2006,Unattended death,109
+AM,2006,"Bacterial sepsis of newborn, unspecified",100
+AM,2006,Newborn respiratory distress syndrome,79
+AM,2006,"Condition originating in the perinatal period, unspecified",67
+AM,2006,"Congenital malformation of heart, unspecified",61
+AM,2006,Others,947
+AM,2007,Unattended death,100
+AM,2007,"Bacterial sepsis of newborn, unspecified",93
+AM,2007,Newborn respiratory distress syndrome,67
+AM,2007,"Condition originating in the perinatal period, unspecified",56
+AM,2007,"Infectious gastroenteritis and colitis, unspecified",51
+AM,2007,Others,858
+AM,2008,"Bacterial sepsis of newborn, unspecified",86
+AM,2008,Newborn respiratory distress syndrome,86
+AM,2008,Unattended death,71
+AM,2008,"Condition originating in the perinatal period, unspecified",64
+AM,2008,"Pneumonia, unspecified organism",62
+AM,2008,Others,865
+AM,2009,"Bacterial sepsis of newborn, unspecified",97
+AM,2009,Newborn respiratory distress syndrome,85
+AM,2009,Unattended death,68
+AM,2009,"Infectious gastroenteritis and colitis, unspecified",55
+AM,2009,"Congenital malformation of heart, unspecified",49
+AM,2009,Others,887
+AM,2010,"Bacterial sepsis of newborn, unspecified",72
+AM,2010,Newborn respiratory distress syndrome,71
+AM,2010,Unattended death,69
+AM,2010,"Pneumonia, unspecified organism",43
+AM,2010,"Infectious gastroenteritis and colitis, unspecified",43
+AM,2010,Others,858
+AM,2011,Newborn respiratory distress syndrome,78
+AM,2011,"Bacterial sepsis of newborn, unspecified",53
+AM,2011,"Condition originating in the perinatal period, unspecified",52
+AM,2011,"Congenital malformation of heart, unspecified",44
+AM,2011,Unattended death,43
+AM,2011,Others,879
+AM,2012,Newborn respiratory distress syndrome,88
+AM,2012,"Congenital malformation of heart, unspecified",64
+AM,2012,"Bacterial sepsis of newborn, unspecified",53
+AM,2012,"Pneumonia, unspecified organism",51
+AM,2012,Unattended death,51
+AM,2012,Others,927
+AM,2013,Newborn respiratory distress syndrome,112
+AM,2013,"Pneumonia, unspecified organism",98
+AM,2013,"Bacterial sepsis of newborn, unspecified",76
+AM,2013,"Congenital malformation of heart, unspecified",65
+AM,2013,"Infectious gastroenteritis and colitis, unspecified",51
+AM,2013,Others,936
+AM,2014,Newborn respiratory distress syndrome,118
+AM,2014,"Bacterial sepsis of newborn, unspecified",74
+AM,2014,"Pneumonia, unspecified organism",62
+AM,2014,"Infectious gastroenteritis and colitis, unspecified",47
+AM,2014,"Congenital malformation of heart, unspecified",45
+AM,2014,Others,905
+AM,2015,Newborn respiratory distress syndrome,122
+AM,2015,"Bacterial sepsis of newborn, unspecified",74
+AM,2015,"Pneumonia, unspecified organism",50
+AM,2015,"Congenital malformation of heart, unspecified",42
+AM,2015,"Infectious gastroenteritis and colitis, unspecified",39
+AM,2015,Others,893
+RR,2000,Newborn respiratory distress syndrome,12
+RR,2000,Ill-defined and unknown cause of mortality,10
+RR,2000,Unattended death,9
+RR,2000,"Congenital malformation of heart, unspecified",9
+RR,2000,Respiratory failure of newborn,8
+RR,2000,Others,118
+RR,2001,Newborn respiratory distress syndrome,24
+RR,2001,"Infectious gastroenteritis and colitis, unspecified",8
+RR,2001,"Congenital malformation of heart, unspecified",8
+RR,2001,Unattended death,8
+RR,2001,"Bacterial sepsis of newborn, unspecified",6
+RR,2001,Others,107
+RR,2002,Newborn respiratory distress syndrome,13
+RR,2002,"Congenital malformation of heart, unspecified",8
+RR,2002,Respiratory failure of newborn,8
+RR,2002,"Infectious gastroenteritis and colitis, unspecified",6
+RR,2002,"Birth asphyxia, unspecified",4
+RR,2002,Others,72
+RR,2003,"Infectious gastroenteritis and colitis, unspecified",21
+RR,2003,Newborn respiratory distress syndrome,15
+RR,2003,"Pneumonia, unspecified organism",11
+RR,2003,"Congenital malformation of heart, unspecified",9
+RR,2003,"Bronchopneumonia, unspecified organism",9
+RR,2003,Others,95
+RR,2004,"Pneumonia, unspecified organism",17
+RR,2004,Newborn respiratory distress syndrome,15
+RR,2004,"Congenital malformation of heart, unspecified",13
+RR,2004,Ill-defined and unknown cause of mortality,10
+RR,2004,Unspecified severe protein-calorie malnutrition,8
+RR,2004,Others,116
+RR,2005,"Pneumonia, unspecified organism",16
+RR,2005,Newborn respiratory distress syndrome,14
+RR,2005,"Infectious gastroenteritis and colitis, unspecified",8
+RR,2005,"Congenital malformation of heart, unspecified",8
+RR,2005,Ill-defined and unknown cause of mortality,7
+RR,2005,Others,118
+RR,2006,"Infectious gastroenteritis and colitis, unspecified",21
+RR,2006,Newborn respiratory distress syndrome,12
+RR,2006,"Bacterial sepsis of newborn, unspecified",12
+RR,2006,"Pneumonia, unspecified organism",10
+RR,2006,Assault by unspecified means - unspecified location,8
+RR,2006,Others,140
+RR,2007,Newborn respiratory distress syndrome,14
+RR,2007,Ill-defined and unknown cause of mortality,10
+RR,2007,"Pneumonia, unspecified organism",9
+RR,2007,"Congenital malformation of heart, unspecified",8
+RR,2007,Extremely low birth weight newborn,8
+RR,2007,Others,117
+RR,2008,Newborn respiratory distress syndrome,22
+RR,2008,"Pneumonia, unspecified organism",16
+RR,2008,"Congenital malformation of heart, unspecified",11
+RR,2008,Assault by unspecified means - specified locations,7
+RR,2008,"Sepsis, unspecified organism",6
+RR,2008,Others,106
+RR,2009,Newborn respiratory distress syndrome,20
+RR,2009,"Pneumonia, unspecified organism",14
+RR,2009,"Infectious gastroenteritis and colitis, unspecified",12
+RR,2009,Assault by unspecified means - specified locations,9
+RR,2009,"Bacterial sepsis of newborn, unspecified",9
+RR,2009,Others,114
+RR,2010,Newborn respiratory distress syndrome,12
+RR,2010,"Congenital malformation of heart, unspecified",9
+RR,2010,"Pneumonia, unspecified organism",9
+RR,2010,Extremely low birth weight newborn,7
+RR,2010,"Bacterial sepsis of newborn, unspecified",6
+RR,2010,Others,84
+RR,2011,Newborn respiratory distress syndrome,19
+RR,2011,"Congenital malformation of heart, unspecified",9
+RR,2011,Necrotizing enterocolitis of newborn,6
+RR,2011,Other specified congenital malformations of heart,5
+RR,2011,"Bacterial sepsis of newborn, unspecified",5
+RR,2011,Others,80
+RR,2012,Assault by unspecified means - unspecified location,40
+RR,2012,Newborn respiratory distress syndrome,19
+RR,2012,"Pneumonia, unspecified organism",15
+RR,2012,"Bacterial sepsis of newborn, unspecified",8
+RR,2012,"Infectious gastroenteritis and colitis, unspecified",6
+RR,2012,Others,107
+RR,2013,"Pneumonia, unspecified organism",25
+RR,2013,Assault by unspecified means - specified locations,25
+RR,2013,Newborn respiratory distress syndrome,18
+RR,2013,"Bacterial sepsis of newborn, unspecified",12
+RR,2013,Assault by unspecified means - unspecified location,7
+RR,2013,Others,119
+RR,2014,Newborn respiratory distress syndrome,22
+RR,2014,Assault by unspecified means - specified locations,21
+RR,2014,"Pneumonia, unspecified organism",20
+RR,2014,"Bacterial sepsis of newborn, unspecified",16
+RR,2014,"Condition originating in the perinatal period, unspecified",10
+RR,2014,Others,132
+RR,2015,Assault by unspecified means - unspecified location,19
+RR,2015,Newborn respiratory distress syndrome,17
+RR,2015,"Respiratory distress of newborn, unspecified",8
+RR,2015,"Pneumonia, unspecified organism",8
+RR,2015,Ill-defined and unknown cause of mortality,8
+RR,2015,Others,129
+PA,2000,Unattended death,383
+PA,2000,"Bacterial sepsis of newborn, unspecified",313
+PA,2000,Newborn respiratory distress syndrome,255
+PA,2000,Respiratory failure of newborn,234
+PA,2000,"Birth asphyxia, unspecified",118
+PA,2000,Others,1781
+PA,2001,"Bacterial sepsis of newborn, unspecified",363
+PA,2001,Unattended death,293
+PA,2001,Respiratory failure of newborn,247
+PA,2001,Newborn respiratory distress syndrome,168
+PA,2001,"Birth asphyxia, unspecified",122
+PA,2001,Others,1934
+PA,2002,Unattended death,350
+PA,2002,"Bacterial sepsis of newborn, unspecified",324
+PA,2002,Newborn respiratory distress syndrome,195
+PA,2002,Respiratory failure of newborn,178
+PA,2002,"Pneumonia, unspecified organism",112
+PA,2002,Others,1733
+PA,2003,"Bacterial sepsis of newborn, unspecified",339
+PA,2003,Unattended death,274
+PA,2003,Newborn respiratory distress syndrome,263
+PA,2003,Preterm [premature] newborn [other],176
+PA,2003,"Sepsis, unspecified organism",129
+PA,2003,Others,1981
+PA,2004,"Bacterial sepsis of newborn, unspecified",397
+PA,2004,Unattended death,282
+PA,2004,Newborn respiratory distress syndrome,185
+PA,2004,Preterm [premature] newborn [other],184
+PA,2004,"Birth asphyxia, unspecified",157
+PA,2004,Others,1897
+PA,2005,"Bacterial sepsis of newborn, unspecified",334
+PA,2005,Unattended death,216
+PA,2005,Newborn respiratory distress syndrome,168
+PA,2005,Preterm [premature] newborn [other],155
+PA,2005,"Sepsis, unspecified organism",134
+PA,2005,Others,1943
+PA,2006,"Bacterial sepsis of newborn, unspecified",349
+PA,2006,Newborn respiratory distress syndrome,179
+PA,2006,Unattended death,158
+PA,2006,"Pneumonia, unspecified organism",118
+PA,2006,"Sepsis, unspecified organism",116
+PA,2006,Others,2012
+PA,2007,"Bacterial sepsis of newborn, unspecified",322
+PA,2007,Newborn respiratory distress syndrome,177
+PA,2007,Preterm [premature] newborn [other],146
+PA,2007,"Pneumonia, unspecified organism",114
+PA,2007,Unattended death,102
+PA,2007,Others,1889
+PA,2008,"Bacterial sepsis of newborn, unspecified",322
+PA,2008,Newborn respiratory distress syndrome,210
+PA,2008,Preterm [premature] newborn [other],122
+PA,2008,"Pneumonia, unspecified organism",104
+PA,2008,"Sepsis, unspecified organism",84
+PA,2008,Others,1844
+PA,2009,"Bacterial sepsis of newborn, unspecified",255
+PA,2009,Newborn respiratory distress syndrome,199
+PA,2009,Preterm [premature] newborn [other],112
+PA,2009,"Pneumonia, unspecified organism",90
+PA,2009,"Birth asphyxia, unspecified",83
+PA,2009,Others,1823
+PA,2010,"Bacterial sepsis of newborn, unspecified",215
+PA,2010,Newborn respiratory distress syndrome,158
+PA,2010,Preterm [premature] newborn [other],134
+PA,2010,"Birth asphyxia, unspecified",87
+PA,2010,Extreme immaturity of newborn,80
+PA,2010,Others,1797
+PA,2011,"Bacterial sepsis of newborn, unspecified",234
+PA,2011,Newborn respiratory distress syndrome,150
+PA,2011,Preterm [premature] newborn [other],119
+PA,2011,"Sepsis, unspecified organism",92
+PA,2011,"Pneumonia, unspecified organism",76
+PA,2011,Others,1728
+PA,2012,"Bacterial sepsis of newborn, unspecified",213
+PA,2012,Newborn respiratory distress syndrome,142
+PA,2012,Preterm [premature] newborn [other],105
+PA,2012,Extreme immaturity of newborn,88
+PA,2012,"Pneumonia, unspecified organism",87
+PA,2012,Others,1632
+PA,2013,"Bacterial sepsis of newborn, unspecified",214
+PA,2013,Newborn respiratory distress syndrome,134
+PA,2013,"Pneumonia, unspecified organism",110
+PA,2013,Preterm [premature] newborn [other],102
+PA,2013,"Birth asphyxia, unspecified",72
+PA,2013,Others,1618
+PA,2014,"Bacterial sepsis of newborn, unspecified",193
+PA,2014,Newborn respiratory distress syndrome,106
+PA,2014,Preterm [premature] newborn [other],99
+PA,2014,"Pneumonia, unspecified organism",78
+PA,2014,"Sepsis, unspecified organism",58
+PA,2014,Others,1647
+PA,2015,"Bacterial sepsis of newborn, unspecified",189
+PA,2015,Newborn respiratory distress syndrome,105
+PA,2015,Preterm [premature] newborn [other],96
+PA,2015,"Pneumonia, unspecified organism",81
+PA,2015,Meconium aspiration,58
+PA,2015,Others,1541
+AP,2000,Respiratory failure of newborn,55
+AP,2000,"Bacterial sepsis of newborn, unspecified",37
+AP,2000,"Birth asphyxia, unspecified",24
+AP,2000,Extreme immaturity of newborn,12
+AP,2000,Primary atelectasis of newborn,11
+AP,2000,Others,180
+AP,2001,Respiratory failure of newborn,58
+AP,2001,"Bacterial sepsis of newborn, unspecified",41
+AP,2001,"Sepsis, unspecified organism",15
+AP,2001,Newborn respiratory distress syndrome,14
+AP,2001,Severe birth asphyxia,13
+AP,2001,Others,199
+AP,2002,Respiratory failure of newborn,54
+AP,2002,"Bacterial sepsis of newborn, unspecified",21
+AP,2002,Severe birth asphyxia,18
+AP,2002,"Infection specific to the perinatal period, unspecified",11
+AP,2002,Newborn respiratory distress syndrome,11
+AP,2002,Others,226
+AP,2003,"Bacterial sepsis of newborn, unspecified",38
+AP,2003,Respiratory failure of newborn,36
+AP,2003,Newborn respiratory distress syndrome,25
+AP,2003,"Pneumonia, unspecified organism",13
+AP,2003,Severe birth asphyxia,11
+AP,2003,Others,173
+AP,2004,Respiratory failure of newborn,39
+AP,2004,"Bacterial sepsis of newborn, unspecified",35
+AP,2004,Newborn respiratory distress syndrome,25
+AP,2004,Severe birth asphyxia,14
+AP,2004,Preterm [premature] newborn [other],11
+AP,2004,Others,183
+AP,2005,Respiratory failure of newborn,48
+AP,2005,"Bacterial sepsis of newborn, unspecified",23
+AP,2005,Severe birth asphyxia,16
+AP,2005,Newborn respiratory distress syndrome,16
+AP,2005,Sepsis of newborn due to other and unspecified streptococci,14
+AP,2005,Others,170
+AP,2006,"Bacterial sepsis of newborn, unspecified",45
+AP,2006,Extreme immaturity of newborn,25
+AP,2006,Severe birth asphyxia,20
+AP,2006,Extremely low birth weight newborn,15
+AP,2006,Newborn respiratory distress syndrome,15
+AP,2006,Others,205
+AP,2007,"Bacterial sepsis of newborn, unspecified",56
+AP,2007,Extreme immaturity of newborn,28
+AP,2007,"Infection specific to the perinatal period, unspecified",19
+AP,2007,Meconium aspiration,13
+AP,2007,Extremely low birth weight newborn,13
+AP,2007,Others,179
+AP,2008,"Bacterial sepsis of newborn, unspecified",38
+AP,2008,Extremely low birth weight newborn,19
+AP,2008,"Infection specific to the perinatal period, unspecified",18
+AP,2008,Severe birth asphyxia,16
+AP,2008,"Pneumonia, unspecified organism",15
+AP,2008,Others,254
+AP,2009,"Bacterial sepsis of newborn, unspecified",63
+AP,2009,Extremely low birth weight newborn,13
+AP,2009,"Infection specific to the perinatal period, unspecified",13
+AP,2009,"Sepsis, unspecified organism",12
+AP,2009,Extreme immaturity of newborn,10
+AP,2009,Others,230
+AP,2010,"Bacterial sepsis of newborn, unspecified",50
+AP,2010,Preterm [premature] newborn [other],23
+AP,2010,"Birth asphyxia, unspecified",16
+AP,2010,Severe birth asphyxia,14
+AP,2010,"Infection specific to the perinatal period, unspecified",13
+AP,2010,Others,190
+AP,2011,"Bacterial sepsis of newborn, unspecified",76
+AP,2011,Preterm [premature] newborn [other],18
+AP,2011,"Infection specific to the perinatal period, unspecified",16
+AP,2011,"Respiratory distress of newborn, unspecified",10
+AP,2011,"Birth asphyxia, unspecified",9
+AP,2011,Others,189
+AP,2012,"Bacterial sepsis of newborn, unspecified",62
+AP,2012,Severe birth asphyxia,18
+AP,2012,Extremely low birth weight newborn,17
+AP,2012,"Congenital malformation of heart, unspecified",16
+AP,2012,Newborn respiratory distress syndrome,14
+AP,2012,Others,202
+AP,2013,"Bacterial sepsis of newborn, unspecified",37
+AP,2013,Extremely low birth weight newborn,27
+AP,2013,"Infection specific to the perinatal period, unspecified",18
+AP,2013,Severe birth asphyxia,16
+AP,2013,"Congenital malformation of heart, unspecified",15
+AP,2013,Others,211
+AP,2014,"Bacterial sepsis of newborn, unspecified",42
+AP,2014,Extremely low birth weight newborn,24
+AP,2014,Severe birth asphyxia,17
+AP,2014,"Pneumonia, unspecified organism",16
+AP,2014,"Infection specific to the perinatal period, unspecified",14
+AP,2014,Others,206
+AP,2015,"Bacterial sepsis of newborn, unspecified",40
+AP,2015,Extremely low birth weight newborn,19
+AP,2015,"Infection specific to the perinatal period, unspecified",16
+AP,2015,Ill-defined and unknown cause of mortality,15
+AP,2015,Severe birth asphyxia,12
+AP,2015,Others,189
+TO,2000,Respiratory failure of newborn,58
+TO,2000,"Infectious gastroenteritis and colitis, unspecified",39
+TO,2000,Unattended death,36
+TO,2000,Newborn respiratory distress syndrome,35
+TO,2000,"Bacterial sepsis of newborn, unspecified",26
+TO,2000,Others,415
+TO,2001,"Infectious gastroenteritis and colitis, unspecified",56
+TO,2001,Newborn respiratory distress syndrome,53
+TO,2001,Respiratory failure of newborn,51
+TO,2001,Unattended death,36
+TO,2001,"Bacterial sepsis of newborn, unspecified",34
+TO,2001,Others,390
+TO,2002,Respiratory failure of newborn,55
+TO,2002,"Infectious gastroenteritis and colitis, unspecified",45
+TO,2002,Newborn respiratory distress syndrome,41
+TO,2002,"Bacterial sepsis of newborn, unspecified",27
+TO,2002,"Birth asphyxia, unspecified",23
+TO,2002,Others,369
+TO,2003,Newborn respiratory distress syndrome,45
+TO,2003,"Bacterial sepsis of newborn, unspecified",33
+TO,2003,"Infectious gastroenteritis and colitis, unspecified",31
+TO,2003,Preterm [premature] newborn [other],26
+TO,2003,"Congenital pneumonia, unspecified",25
+TO,2003,Others,359
+TO,2004,Newborn respiratory distress syndrome,48
+TO,2004,Preterm [premature] newborn [other],35
+TO,2004,"Infectious gastroenteritis and colitis, unspecified",31
+TO,2004,"Bacterial sepsis of newborn, unspecified",31
+TO,2004,"Pneumonia, unspecified organism",26
+TO,2004,Others,340
+TO,2005,Preterm [premature] newborn [other],34
+TO,2005,Newborn respiratory distress syndrome,32
+TO,2005,"Pneumonia, unspecified organism",23
+TO,2005,"Bacterial sepsis of newborn, unspecified",21
+TO,2005,"Infectious gastroenteritis and colitis, unspecified",19
+TO,2005,Others,319
+TO,2006,Newborn respiratory distress syndrome,48
+TO,2006,Preterm [premature] newborn [other],26
+TO,2006,"Bacterial sepsis of newborn, unspecified",23
+TO,2006,"Pneumonia, unspecified organism",20
+TO,2006,Extreme immaturity of newborn,18
+TO,2006,Others,347
+TO,2007,Newborn respiratory distress syndrome,29
+TO,2007,"Congenital malformation of heart, unspecified",26
+TO,2007,"Pneumonia, unspecified organism",21
+TO,2007,"Bacterial sepsis of newborn, unspecified",20
+TO,2007,Meconium aspiration,19
+TO,2007,Others,311
+TO,2008,Newborn respiratory distress syndrome,38
+TO,2008,"Bacterial sepsis of newborn, unspecified",22
+TO,2008,Preterm [premature] newborn [other],17
+TO,2008,"Infection specific to the perinatal period, unspecified",15
+TO,2008,"Congenital malformation of heart, unspecified",12
+TO,2008,Others,274
+TO,2009,Newborn respiratory distress syndrome,40
+TO,2009,"Pneumonia, unspecified organism",20
+TO,2009,"Bacterial sepsis of newborn, unspecified",19
+TO,2009,Extreme immaturity of newborn,13
+TO,2009,Ill-defined and unknown cause of mortality,13
+TO,2009,Others,291
+TO,2010,Newborn respiratory distress syndrome,26
+TO,2010,"Pneumonia, unspecified organism",20
+TO,2010,Extreme immaturity of newborn,18
+TO,2010,Meconium aspiration,17
+TO,2010,"Bacterial sepsis of newborn, unspecified",17
+TO,2010,Others,288
+TO,2011,"Pneumonia, unspecified organism",20
+TO,2011,"Bacterial sepsis of newborn, unspecified",18
+TO,2011,Newborn affected by maternal renal and urinary tract diseases,16
+TO,2011,Newborn respiratory distress syndrome,16
+TO,2011,Meconium aspiration,14
+TO,2011,Others,288
+TO,2012,Newborn respiratory distress syndrome,29
+TO,2012,"Bacterial sepsis of newborn, unspecified",20
+TO,2012,Ill-defined and unknown cause of mortality,17
+TO,2012,Preterm [premature] newborn [other],16
+TO,2012,Newborn affected by maternal hypertensive disorders,11
+TO,2012,Others,228
+TO,2013,"Bacterial sepsis of newborn, unspecified",22
+TO,2013,Newborn affected by maternal renal and urinary tract diseases,21
+TO,2013,Newborn respiratory distress syndrome,14
+TO,2013,Newborn affected by maternal hypertensive disorders,11
+TO,2013,"Congenital malformation of heart, unspecified",10
+TO,2013,Others,232
+TO,2014,Newborn affected by maternal renal and urinary tract diseases,18
+TO,2014,Newborn respiratory distress syndrome,14
+TO,2014,Newborn affected by maternal hypertensive disorders,14
+TO,2014,"Congenital malformation of heart, unspecified",10
+TO,2014,Ill-defined and unknown cause of mortality,10
+TO,2014,Others,229
+TO,2015,Newborn affected by maternal renal and urinary tract diseases,32
+TO,2015,Newborn affected by maternal hypertensive disorders,17
+TO,2015,"Congenital malformation of heart, unspecified",16
+TO,2015,Newborn respiratory distress syndrome,11
+TO,2015,"Bacterial sepsis of newborn, unspecified",10
+TO,2015,Others,226
+MA,2000,Unattended death,367
+MA,2000,"Condition originating in the perinatal period, unspecified",238
+MA,2000,Respiratory failure of newborn,98
+MA,2000,Newborn respiratory distress syndrome,93
+MA,2000,Neonatal cardiac dysrhythmia,72
+MA,2000,Others,917
+MA,2001,Unattended death,455
+MA,2001,Respiratory failure of newborn,145
+MA,2001,"Bacterial sepsis of newborn, unspecified",121
+MA,2001,Newborn respiratory distress syndrome,119
+MA,2001,"Infectious gastroenteritis and colitis, unspecified",89
+MA,2001,Others,1121
+MA,2002,Unattended death,400
+MA,2002,Respiratory failure of newborn,197
+MA,2002,"Condition originating in the perinatal period, unspecified",168
+MA,2002,"Bacterial sepsis of newborn, unspecified",142
+MA,2002,Newborn respiratory distress syndrome,118
+MA,2002,Others,1247
+MA,2003,Unattended death,392
+MA,2003,"Condition originating in the perinatal period, unspecified",181
+MA,2003,Respiratory failure of newborn,164
+MA,2003,Newborn respiratory distress syndrome,134
+MA,2003,"Infectious gastroenteritis and colitis, unspecified",111
+MA,2003,Others,1337
+MA,2004,Unattended death,300
+MA,2004,"Condition originating in the perinatal period, unspecified",176
+MA,2004,"Bacterial sepsis of newborn, unspecified",136
+MA,2004,Respiratory failure of newborn,125
+MA,2004,Newborn respiratory distress syndrome,117
+MA,2004,Others,1224
+MA,2005,"Infectious gastroenteritis and colitis, unspecified",180
+MA,2005,Newborn respiratory distress syndrome,179
+MA,2005,Respiratory failure of newborn,166
+MA,2005,"Bacterial sepsis of newborn, unspecified",136
+MA,2005,Unattended death,123
+MA,2005,Others,1552
+MA,2006,Newborn respiratory distress syndrome,167
+MA,2006,"Infectious gastroenteritis and colitis, unspecified",155
+MA,2006,"Bacterial sepsis of newborn, unspecified",147
+MA,2006,"Birth asphyxia, unspecified",84
+MA,2006,"Congenital malformation of heart, unspecified",80
+MA,2006,Others,1478
+MA,2007,Newborn respiratory distress syndrome,152
+MA,2007,"Bacterial sepsis of newborn, unspecified",138
+MA,2007,"Infectious gastroenteritis and colitis, unspecified",94
+MA,2007,"Birth asphyxia, unspecified",93
+MA,2007,"Congenital malformation of heart, unspecified",85
+MA,2007,Others,1479
+MA,2008,Newborn respiratory distress syndrome,134
+MA,2008,"Bacterial sepsis of newborn, unspecified",133
+MA,2008,"Infectious gastroenteritis and colitis, unspecified",100
+MA,2008,"Birth asphyxia, unspecified",92
+MA,2008,"Congenital malformation of heart, unspecified",80
+MA,2008,Others,1444
+MA,2009,"Bacterial sepsis of newborn, unspecified",181
+MA,2009,Newborn respiratory distress syndrome,113
+MA,2009,"Birth asphyxia, unspecified",99
+MA,2009,"Congenital malformation of heart, unspecified",80
+MA,2009,"Infectious gastroenteritis and colitis, unspecified",70
+MA,2009,Others,1382
+MA,2010,Newborn respiratory distress syndrome,156
+MA,2010,"Bacterial sepsis of newborn, unspecified",118
+MA,2010,"Congenital malformation of heart, unspecified",93
+MA,2010,"Birth asphyxia, unspecified",86
+MA,2010,Extremely low birth weight newborn,75
+MA,2010,Others,1238
+MA,2011,Newborn respiratory distress syndrome,138
+MA,2011,"Congenital malformation of heart, unspecified",137
+MA,2011,"Bacterial sepsis of newborn, unspecified",134
+MA,2011,"Birth asphyxia, unspecified",84
+MA,2011,"Pneumonia, unspecified organism",82
+MA,2011,Others,1281
+MA,2012,"Bacterial sepsis of newborn, unspecified",132
+MA,2012,Newborn respiratory distress syndrome,115
+MA,2012,"Congenital malformation of heart, unspecified",96
+MA,2012,"Pneumonia, unspecified organism",68
+MA,2012,"Birth asphyxia, unspecified",68
+MA,2012,Others,1156
+MA,2013,Newborn respiratory distress syndrome,132
+MA,2013,"Bacterial sepsis of newborn, unspecified",131
+MA,2013,"Congenital malformation of heart, unspecified",83
+MA,2013,"Birth asphyxia, unspecified",83
+MA,2013,"Pneumonia, unspecified organism",74
+MA,2013,Others,1313
+MA,2014,"Bacterial sepsis of newborn, unspecified",116
+MA,2014,"Congenital malformation of heart, unspecified",113
+MA,2014,Newborn respiratory distress syndrome,110
+MA,2014,"Birth asphyxia, unspecified",83
+MA,2014,"Pneumonia, unspecified organism",82
+MA,2014,Others,1261
+MA,2015,"Bacterial sepsis of newborn, unspecified",155
+MA,2015,"Congenital malformation of heart, unspecified",109
+MA,2015,Newborn respiratory distress syndrome,104
+MA,2015,"Birth asphyxia, unspecified",73
+MA,2015,Meconium aspiration,60
+MA,2015,Others,1232
+PI,2000,"Condition originating in the perinatal period, unspecified",192
+PI,2000,Respiratory failure of newborn,138
+PI,2000,Unattended death,123
+PI,2000,Newborn respiratory distress syndrome,85
+PI,2000,Ill-defined and unknown cause of mortality,78
+PI,2000,Others,815
+PI,2001,Respiratory failure of newborn,139
+PI,2001,"Condition originating in the perinatal period, unspecified",139
+PI,2001,Unattended death,109
+PI,2001,Newborn respiratory distress syndrome,85
+PI,2001,"Birth asphyxia, unspecified",64
+PI,2001,Others,836
+PI,2002,Unattended death,184
+PI,2002,Respiratory failure of newborn,124
+PI,2002,Newborn respiratory distress syndrome,89
+PI,2002,"Bacterial sepsis of newborn, unspecified",71
+PI,2002,"Birth asphyxia, unspecified",68
+PI,2002,Others,845
+PI,2003,Respiratory failure of newborn,130
+PI,2003,Unattended death,126
+PI,2003,"Condition originating in the perinatal period, unspecified",91
+PI,2003,Newborn respiratory distress syndrome,75
+PI,2003,"Bacterial sepsis of newborn, unspecified",66
+PI,2003,Others,875
+PI,2004,Respiratory failure of newborn,101
+PI,2004,"Bacterial sepsis of newborn, unspecified",79
+PI,2004,Unattended death,72
+PI,2004,"Condition originating in the perinatal period, unspecified",70
+PI,2004,Newborn respiratory distress syndrome,64
+PI,2004,Others,822
+PI,2005,Respiratory failure of newborn,99
+PI,2005,Newborn respiratory distress syndrome,84
+PI,2005,"Bacterial sepsis of newborn, unspecified",79
+PI,2005,Unattended death,66
+PI,2005,"Condition originating in the perinatal period, unspecified",65
+PI,2005,Others,881
+PI,2006,"Bacterial sepsis of newborn, unspecified",77
+PI,2006,Newborn respiratory distress syndrome,75
+PI,2006,"Infectious gastroenteritis and colitis, unspecified",60
+PI,2006,"Congenital malformation of heart, unspecified",59
+PI,2006,Other low birth weight newborn,54
+PI,2006,Others,892
+PI,2007,Newborn affected by premature rupture of membranes,65
+PI,2007,Newborn respiratory distress syndrome,61
+PI,2007,"Congenital malformation of heart, unspecified",47
+PI,2007,Extremely low birth weight newborn,39
+PI,2007,"Infectious gastroenteritis and colitis, unspecified",38
+PI,2007,Others,944
+PI,2008,Newborn affected by premature rupture of membranes,71
+PI,2008,Newborn respiratory distress syndrome,69
+PI,2008,"Congenital malformation of heart, unspecified",49
+PI,2008,Newborn affected by maternal infectious and parasitic diseases,44
+PI,2008,Newborn affected by maternal hypertensive disorders,44
+PI,2008,Others,841
+PI,2009,Newborn respiratory distress syndrome,63
+PI,2009,"Bacterial sepsis of newborn, unspecified",56
+PI,2009,Newborn affected by premature rupture of membranes,53
+PI,2009,Newborn affected by maternal hypertensive disorders,49
+PI,2009,"Congenital malformation of heart, unspecified",44
+PI,2009,Others,783
+PI,2010,Newborn affected by maternal infectious and parasitic diseases,67
+PI,2010,"Bacterial sepsis of newborn, unspecified",51
+PI,2010,Newborn affected by premature rupture of membranes,46
+PI,2010,"Congenital malformation of heart, unspecified",42
+PI,2010,Newborn respiratory distress syndrome,32
+PI,2010,Others,694
+PI,2011,Newborn affected by maternal infectious and parasitic diseases,69
+PI,2011,Newborn respiratory distress syndrome,56
+PI,2011,Newborn affected by premature rupture of membranes,51
+PI,2011,"Congenital malformation of heart, unspecified",51
+PI,2011,"Bacterial sepsis of newborn, unspecified",42
+PI,2011,Others,670
+PI,2012,"Bacterial sepsis of newborn, unspecified",50
+PI,2012,"Congenital malformation of heart, unspecified",49
+PI,2012,Newborn affected by maternal infectious and parasitic diseases,44
+PI,2012,Newborn respiratory distress syndrome,43
+PI,2012,Newborn affected by premature rupture of membranes,41
+PI,2012,Others,654
+PI,2013,Newborn affected by maternal hypertensive disorders,53
+PI,2013,"Bacterial sepsis of newborn, unspecified",45
+PI,2013,Newborn affected by premature rupture of membranes,39
+PI,2013,Newborn respiratory distress syndrome,34
+PI,2013,"Congenital malformation of heart, unspecified",31
+PI,2013,Others,647
+PI,2014,"Congenital malformation of heart, unspecified",40
+PI,2014,Newborn affected by maternal hypertensive disorders,38
+PI,2014,Newborn respiratory distress syndrome,37
+PI,2014,"Bacterial sepsis of newborn, unspecified",36
+PI,2014,Newborn affected by premature rupture of membranes,35
+PI,2014,Others,623
+PI,2015,Newborn affected by maternal hypertensive disorders,59
+PI,2015,Newborn affected by premature rupture of membranes,36
+PI,2015,"Bacterial sepsis of newborn, unspecified",35
+PI,2015,Newborn affected by other forms of placental separation and hemorrhage,31
+PI,2015,Meconium aspiration,29
+PI,2015,Others,616
+CE,2000,"Infectious gastroenteritis and colitis, unspecified",340
+CE,2000,Unattended death,316
+CE,2000,Respiratory failure of newborn,275
+CE,2000,"Bacterial sepsis of newborn, unspecified",265
+CE,2000,Newborn respiratory distress syndrome,207
+CE,2000,Others,2413
+CE,2001,"Infectious gastroenteritis and colitis, unspecified",268
+CE,2001,"Bacterial sepsis of newborn, unspecified",232
+CE,2001,Respiratory failure of newborn,217
+CE,2001,Newborn respiratory distress syndrome,194
+CE,2001,Unattended death,169
+CE,2001,Others,2109
+CE,2002,"Infectious gastroenteritis and colitis, unspecified",294
+CE,2002,Newborn respiratory distress syndrome,272
+CE,2002,"Bacterial sepsis of newborn, unspecified",260
+CE,2002,Unattended death,188
+CE,2002,"Birth asphyxia, unspecified",135
+CE,2002,Others,2348
+CE,2003,Newborn respiratory distress syndrome,290
+CE,2003,"Bacterial sepsis of newborn, unspecified",242
+CE,2003,"Infectious gastroenteritis and colitis, unspecified",222
+CE,2003,Unattended death,220
+CE,2003,Preterm [premature] newborn [other],178
+CE,2003,Others,2388
+CE,2004,Newborn respiratory distress syndrome,261
+CE,2004,"Bacterial sepsis of newborn, unspecified",238
+CE,2004,"Birth asphyxia, unspecified",166
+CE,2004,"Infectious gastroenteritis and colitis, unspecified",164
+CE,2004,"Condition originating in the perinatal period, unspecified",162
+CE,2004,Others,2121
+CE,2005,"Bacterial sepsis of newborn, unspecified",244
+CE,2005,Newborn respiratory distress syndrome,225
+CE,2005,"Infectious gastroenteritis and colitis, unspecified",126
+CE,2005,"Birth asphyxia, unspecified",121
+CE,2005,"Sepsis, unspecified organism",94
+CE,2005,Others,1783
+CE,2006,"Bacterial sepsis of newborn, unspecified",234
+CE,2006,Newborn respiratory distress syndrome,212
+CE,2006,"Infectious gastroenteritis and colitis, unspecified",118
+CE,2006,"Congenital malformation of heart, unspecified",110
+CE,2006,"Birth asphyxia, unspecified",104
+CE,2006,Others,1680
+CE,2007,"Bacterial sepsis of newborn, unspecified",245
+CE,2007,Newborn respiratory distress syndrome,158
+CE,2007,"Congenital malformation of heart, unspecified",104
+CE,2007,"Birth asphyxia, unspecified",82
+CE,2007,"Infectious gastroenteritis and colitis, unspecified",77
+CE,2007,Others,1498
+CE,2008,"Bacterial sepsis of newborn, unspecified",200
+CE,2008,Newborn respiratory distress syndrome,181
+CE,2008,"Congenital malformation of heart, unspecified",89
+CE,2008,"Birth asphyxia, unspecified",89
+CE,2008,Extreme immaturity of newborn,83
+CE,2008,Others,1467
+CE,2009,"Bacterial sepsis of newborn, unspecified",203
+CE,2009,Newborn respiratory distress syndrome,181
+CE,2009,Extreme immaturity of newborn,81
+CE,2009,"Congenital malformation of heart, unspecified",81
+CE,2009,"Birth asphyxia, unspecified",78
+CE,2009,Others,1414
+CE,2010,"Bacterial sepsis of newborn, unspecified",166
+CE,2010,Newborn respiratory distress syndrome,137
+CE,2010,"Birth asphyxia, unspecified",85
+CE,2010,Extreme immaturity of newborn,78
+CE,2010,"Congenital malformation of heart, unspecified",68
+CE,2010,Others,1158
+CE,2011,"Bacterial sepsis of newborn, unspecified",185
+CE,2011,Newborn respiratory distress syndrome,158
+CE,2011,Extreme immaturity of newborn,74
+CE,2011,"Birth asphyxia, unspecified",70
+CE,2011,"Pneumonia, unspecified organism",69
+CE,2011,Others,1216
+CE,2012,"Bacterial sepsis of newborn, unspecified",177
+CE,2012,Newborn respiratory distress syndrome,145
+CE,2012,"Birth asphyxia, unspecified",95
+CE,2012,"Congenital malformation of heart, unspecified",65
+CE,2012,Extreme immaturity of newborn,65
+CE,2012,Others,1070
+CE,2013,"Bacterial sepsis of newborn, unspecified",198
+CE,2013,Newborn respiratory distress syndrome,158
+CE,2013,"Birth asphyxia, unspecified",85
+CE,2013,Extreme immaturity of newborn,64
+CE,2013,"Congenital malformation of heart, unspecified",58
+CE,2013,Others,1174
+CE,2014,"Bacterial sepsis of newborn, unspecified",185
+CE,2014,Newborn respiratory distress syndrome,117
+CE,2014,Extreme immaturity of newborn,93
+CE,2014,"Birth asphyxia, unspecified",74
+CE,2014,"Congenital malformation of heart, unspecified",51
+CE,2014,Others,1068
+CE,2015,"Bacterial sepsis of newborn, unspecified",185
+CE,2015,Newborn respiratory distress syndrome,121
+CE,2015,"Congenital malformation of heart, unspecified",71
+CE,2015,"Birth asphyxia, unspecified",69
+CE,2015,Extreme immaturity of newborn,51
+CE,2015,Others,1114
+RN,2000,Unattended death,152
+RN,2000,Respiratory failure of newborn,149
+RN,2000,Newborn respiratory distress syndrome,85
+RN,2000,"Bacterial sepsis of newborn, unspecified",65
+RN,2000,"Infectious gastroenteritis and colitis, unspecified",56
+RN,2000,Others,692
+RN,2001,Respiratory failure of newborn,131
+RN,2001,Newborn respiratory distress syndrome,81
+RN,2001,Unattended death,68
+RN,2001,"Bacterial sepsis of newborn, unspecified",64
+RN,2001,"Congenital pneumonia, unspecified",40
+RN,2001,Others,646
+RN,2002,Respiratory failure of newborn,119
+RN,2002,Newborn respiratory distress syndrome,103
+RN,2002,Unattended death,79
+RN,2002,"Bacterial sepsis of newborn, unspecified",60
+RN,2002,"Pneumonia, unspecified organism",45
+RN,2002,Others,709
+RN,2003,Newborn respiratory distress syndrome,91
+RN,2003,"Bacterial sepsis of newborn, unspecified",52
+RN,2003,Unattended death,44
+RN,2003,Respiratory failure of newborn,42
+RN,2003,Extremely low birth weight newborn,33
+RN,2003,Others,644
+RN,2004,"Bacterial sepsis of newborn, unspecified",82
+RN,2004,Newborn respiratory distress syndrome,76
+RN,2004,Extremely low birth weight newborn,41
+RN,2004,"Congenital pneumonia, unspecified",36
+RN,2004,"Birth asphyxia, unspecified",35
+RN,2004,Others,663
+RN,2005,"Bacterial sepsis of newborn, unspecified",85
+RN,2005,Newborn respiratory distress syndrome,75
+RN,2005,Extremely low birth weight newborn,56
+RN,2005,Other low birth weight newborn,43
+RN,2005,"Birth asphyxia, unspecified",36
+RN,2005,Others,559
+RN,2006,"Bacterial sepsis of newborn, unspecified",54
+RN,2006,Extremely low birth weight newborn,43
+RN,2006,Newborn respiratory distress syndrome,31
+RN,2006,Other low birth weight newborn,29
+RN,2006,"Congenital malformation of heart, unspecified",28
+RN,2006,Others,514
+RN,2007,"Bacterial sepsis of newborn, unspecified",75
+RN,2007,Newborn respiratory distress syndrome,57
+RN,2007,Other low birth weight newborn,35
+RN,2007,"Congenital malformation of heart, unspecified",29
+RN,2007,Extremely low birth weight newborn,23
+RN,2007,Others,534
+RN,2008,"Bacterial sepsis of newborn, unspecified",79
+RN,2008,Newborn respiratory distress syndrome,71
+RN,2008,"Congenital malformation of heart, unspecified",47
+RN,2008,Extremely low birth weight newborn,42
+RN,2008,"Birth asphyxia, unspecified",30
+RN,2008,Others,457
+RN,2009,"Bacterial sepsis of newborn, unspecified",84
+RN,2009,Newborn respiratory distress syndrome,52
+RN,2009,"Congenital malformation of heart, unspecified",44
+RN,2009,"Birth asphyxia, unspecified",27
+RN,2009,"Pneumonia, unspecified organism",24
+RN,2009,Others,448
+RN,2010,Newborn respiratory distress syndrome,60
+RN,2010,"Bacterial sepsis of newborn, unspecified",58
+RN,2010,"Congenital malformation of heart, unspecified",29
+RN,2010,Extreme immaturity of newborn,23
+RN,2010,"Sepsis, unspecified organism",21
+RN,2010,Others,441
+RN,2011,"Bacterial sepsis of newborn, unspecified",92
+RN,2011,Newborn respiratory distress syndrome,63
+RN,2011,"Congenital malformation of heart, unspecified",37
+RN,2011,Extremely low birth weight newborn,17
+RN,2011,"Sepsis, unspecified organism",15
+RN,2011,Others,412
+RN,2012,"Bacterial sepsis of newborn, unspecified",91
+RN,2012,Newborn respiratory distress syndrome,57
+RN,2012,"Congenital malformation of heart, unspecified",34
+RN,2012,"Birth asphyxia, unspecified",21
+RN,2012,"Sepsis, unspecified organism",20
+RN,2012,Others,431
+RN,2013,"Bacterial sepsis of newborn, unspecified",76
+RN,2013,Newborn respiratory distress syndrome,76
+RN,2013,"Congenital malformation of heart, unspecified",38
+RN,2013,Extremely low birth weight newborn,33
+RN,2013,"Pneumonia, unspecified organism",21
+RN,2013,Others,427
+RN,2014,"Bacterial sepsis of newborn, unspecified",84
+RN,2014,Newborn respiratory distress syndrome,58
+RN,2014,"Congenital malformation of heart, unspecified",35
+RN,2014,Extremely low birth weight newborn,26
+RN,2014,Newborn affected by maternal renal and urinary tract diseases,17
+RN,2014,Others,395
+RN,2015,"Bacterial sepsis of newborn, unspecified",66
+RN,2015,Newborn respiratory distress syndrome,59
+RN,2015,"Congenital malformation of heart, unspecified",44
+RN,2015,"Pneumonia, unspecified organism",15
+RN,2015,Newborn affected by maternal renal and urinary tract diseases,14
+RN,2015,Others,481
+PB,2000,Unattended death,457
+PB,2000,Respiratory failure of newborn,128
+PB,2000,Newborn respiratory distress syndrome,123
+PB,2000,"Bacterial sepsis of newborn, unspecified",82
+PB,2000,Preterm [premature] newborn [other],79
+PB,2000,Others,1001
+PB,2001,Unattended death,234
+PB,2001,Newborn respiratory distress syndrome,161
+PB,2001,Respiratory failure of newborn,71
+PB,2001,Sepsis of newborn due to other and unspecified streptococci,63
+PB,2001,"Bacterial sepsis of newborn, unspecified",58
+PB,2001,Others,785
+PB,2002,Unattended death,245
+PB,2002,Newborn respiratory distress syndrome,185
+PB,2002,"Bacterial sepsis of newborn, unspecified",77
+PB,2002,"Infectious gastroenteritis and colitis, unspecified",64
+PB,2002,Sepsis of newborn due to other and unspecified streptococci,60
+PB,2002,Others,850
+PB,2003,Newborn respiratory distress syndrome,185
+PB,2003,Unattended death,159
+PB,2003,"Bacterial sepsis of newborn, unspecified",76
+PB,2003,"Infectious gastroenteritis and colitis, unspecified",53
+PB,2003,Candidíase neonatal,50
+PB,2003,Others,872
+PB,2004,Newborn respiratory distress syndrome,165
+PB,2004,Unattended death,120
+PB,2004,"Bacterial sepsis of newborn, unspecified",79
+PB,2004,Respiratory failure of newborn,64
+PB,2004,"Infectious gastroenteritis and colitis, unspecified",52
+PB,2004,Others,808
+PB,2005,Newborn respiratory distress syndrome,117
+PB,2005,"Bacterial sepsis of newborn, unspecified",102
+PB,2005,"Respiratory distress of newborn, unspecified",57
+PB,2005,Unattended death,53
+PB,2005,Respiratory failure of newborn,49
+PB,2005,Others,819
+PB,2006,"Bacterial sepsis of newborn, unspecified",127
+PB,2006,Newborn respiratory distress syndrome,99
+PB,2006,"Infection specific to the perinatal period, unspecified",42
+PB,2006,Hipóxia intra-uterina não especificada,42
+PB,2006,"Infectious gastroenteritis and colitis, unspecified",38
+PB,2006,Others,726
+PB,2007,"Bacterial sepsis of newborn, unspecified",139
+PB,2007,Newborn respiratory distress syndrome,115
+PB,2007,Hipóxia intra-uterina não especificada,49
+PB,2007,"Respiratory distress of newborn, unspecified",37
+PB,2007,"Infection specific to the perinatal period, unspecified",36
+PB,2007,Others,697
+PB,2008,"Bacterial sepsis of newborn, unspecified",133
+PB,2008,Newborn respiratory distress syndrome,100
+PB,2008,Hipóxia intra-uterina não especificada,45
+PB,2008,"Congenital pneumonia, unspecified",37
+PB,2008,"Congenital malformation of heart, unspecified",34
+PB,2008,Others,659
+PB,2009,"Bacterial sepsis of newborn, unspecified",128
+PB,2009,Newborn respiratory distress syndrome,101
+PB,2009,"Congenital pneumonia, unspecified",47
+PB,2009,Other specified congenital malformations of heart,27
+PB,2009,Extreme immaturity of newborn,26
+PB,2009,Others,538
+PB,2010,"Bacterial sepsis of newborn, unspecified",105
+PB,2010,Newborn respiratory distress syndrome,98
+PB,2010,"Congenital pneumonia, unspecified",37
+PB,2010,Other specified congenital malformations of heart,30
+PB,2010,"Congenital malformation of heart, unspecified",22
+PB,2010,Others,543
+PB,2011,"Bacterial sepsis of newborn, unspecified",115
+PB,2011,Newborn respiratory distress syndrome,71
+PB,2011,"Congenital pneumonia, unspecified",29
+PB,2011,Intrauterine hypoxia first noted during labour and delivery,26
+PB,2011,Malformações congênitas não especificadas,24
+PB,2011,Others,551
+PB,2012,"Bacterial sepsis of newborn, unspecified",96
+PB,2012,Newborn respiratory distress syndrome,84
+PB,2012,"Congenital pneumonia, unspecified",33
+PB,2012,Intrauterine hypoxia first noted during labour and delivery,32
+PB,2012,Extreme immaturity of newborn,25
+PB,2012,Others,535
+PB,2013,"Bacterial sepsis of newborn, unspecified",114
+PB,2013,Newborn respiratory distress syndrome,92
+PB,2013,Other specified congenital malformations of heart,41
+PB,2013,"Congenital pneumonia, unspecified",33
+PB,2013,Intrauterine hypoxia first noted during labour and delivery,24
+PB,2013,Others,508
+PB,2014,"Bacterial sepsis of newborn, unspecified",90
+PB,2014,Newborn respiratory distress syndrome,67
+PB,2014,Other specified congenital malformations of heart,38
+PB,2014,"Congenital pneumonia, unspecified",26
+PB,2014,Intrauterine hypoxia first noted during labour and delivery,20
+PB,2014,Others,519
+PB,2015,"Bacterial sepsis of newborn, unspecified",83
+PB,2015,Newborn respiratory distress syndrome,46
+PB,2015,Other specified congenital malformations of heart,34
+PB,2015,Intrauterine hypoxia first noted during labour and delivery,21
+PB,2015,"Congenital pneumonia, unspecified",19
+PB,2015,Others,464
+PE,2000,Unattended death,971
+PE,2000,Newborn respiratory distress syndrome,407
+PE,2000,"Infectious gastroenteritis and colitis, unspecified",369
+PE,2000,"Bacterial sepsis of newborn, unspecified",241
+PE,2000,Respiratory failure of newborn,224
+PE,2000,Others,2648
+PE,2001,Unattended death,732
+PE,2001,Newborn respiratory distress syndrome,370
+PE,2001,"Infectious gastroenteritis and colitis, unspecified",266
+PE,2001,Respiratory failure of newborn,218
+PE,2001,"Bacterial sepsis of newborn, unspecified",217
+PE,2001,Others,2579
+PE,2002,Unattended death,514
+PE,2002,Newborn respiratory distress syndrome,360
+PE,2002,"Infectious gastroenteritis and colitis, unspecified",313
+PE,2002,"Bacterial sepsis of newborn, unspecified",219
+PE,2002,Respiratory failure of newborn,169
+PE,2002,Others,2471
+PE,2003,Unattended death,493
+PE,2003,"Infectious gastroenteritis and colitis, unspecified",353
+PE,2003,Newborn respiratory distress syndrome,328
+PE,2003,"Bacterial sepsis of newborn, unspecified",237
+PE,2003,Respiratory failure of newborn,153
+PE,2003,Others,2462
+PE,2004,"Infectious gastroenteritis and colitis, unspecified",338
+PE,2004,Unattended death,327
+PE,2004,Newborn respiratory distress syndrome,230
+PE,2004,Respiratory failure of newborn,202
+PE,2004,"Bacterial sepsis of newborn, unspecified",181
+PE,2004,Others,2159
+PE,2005,"Infectious gastroenteritis and colitis, unspecified",250
+PE,2005,Newborn respiratory distress syndrome,229
+PE,2005,Unattended death,214
+PE,2005,"Bacterial sepsis of newborn, unspecified",166
+PE,2005,Respiratory failure of newborn,158
+PE,2005,Others,2284
+PE,2006,"Infectious gastroenteritis and colitis, unspecified",225
+PE,2006,Newborn respiratory distress syndrome,184
+PE,2006,"Bacterial sepsis of newborn, unspecified",109
+PE,2006,"Congenital malformation of heart, unspecified",100
+PE,2006,Newborn affected by maternal hypertensive disorders,89
+PE,2006,Others,2082
+PE,2007,"Infectious gastroenteritis and colitis, unspecified",182
+PE,2007,Newborn respiratory distress syndrome,167
+PE,2007,"Bacterial sepsis of newborn, unspecified",135
+PE,2007,"Congenital malformation of heart, unspecified",97
+PE,2007,Newborn affected by maternal hypertensive disorders,95
+PE,2007,Others,2095
+PE,2008,"Bacterial sepsis of newborn, unspecified",159
+PE,2008,Newborn respiratory distress syndrome,146
+PE,2008,"Infectious gastroenteritis and colitis, unspecified",145
+PE,2008,Newborn affected by maternal hypertensive disorders,116
+PE,2008,"Congenital malformation of heart, unspecified",87
+PE,2008,Others,1901
+PE,2009,"Bacterial sepsis of newborn, unspecified",175
+PE,2009,"Congenital malformation of heart, unspecified",125
+PE,2009,Newborn affected by maternal hypertensive disorders,116
+PE,2009,Newborn respiratory distress syndrome,114
+PE,2009,"Infectious gastroenteritis and colitis, unspecified",97
+PE,2009,Others,1960
+PE,2010,"Bacterial sepsis of newborn, unspecified",154
+PE,2010,"Congenital malformation of heart, unspecified",113
+PE,2010,Newborn respiratory distress syndrome,90
+PE,2010,Newborn affected by maternal hypertensive disorders,87
+PE,2010,"Infectious gastroenteritis and colitis, unspecified",69
+PE,2010,Others,1694
+PE,2011,"Bacterial sepsis of newborn, unspecified",136
+PE,2011,"Congenital malformation of heart, unspecified",113
+PE,2011,"Infectious gastroenteritis and colitis, unspecified",70
+PE,2011,Newborn affected by maternal hypertensive disorders,70
+PE,2011,Malformações congênitas não especificadas,68
+PE,2011,Others,1687
+PE,2012,"Bacterial sepsis of newborn, unspecified",174
+PE,2012,Newborn affected by maternal hypertensive disorders,107
+PE,2012,"Congenital malformation of heart, unspecified",105
+PE,2012,"Infectious gastroenteritis and colitis, unspecified",73
+PE,2012,Newborn affected by maternal renal and urinary tract diseases,69
+PE,2012,Others,1658
+PE,2013,"Bacterial sepsis of newborn, unspecified",155
+PE,2013,"Congenital malformation of heart, unspecified",115
+PE,2013,Newborn affected by maternal hypertensive disorders,106
+PE,2013,"Infectious gastroenteritis and colitis, unspecified",77
+PE,2013,Newborn affected by maternal renal and urinary tract diseases,74
+PE,2013,Others,1616
+PE,2014,"Bacterial sepsis of newborn, unspecified",162
+PE,2014,"Congenital malformation of heart, unspecified",104
+PE,2014,Newborn affected by maternal hypertensive disorders,99
+PE,2014,Newborn affected by chorioamnionitis,76
+PE,2014,"Respiratory distress of newborn, unspecified",56
+PE,2014,Others,1590
+PE,2015,"Bacterial sepsis of newborn, unspecified",196
+PE,2015,Newborn affected by maternal hypertensive disorders,110
+PE,2015,"Congenital malformation of heart, unspecified",87
+PE,2015,Malformações congênitas não especificadas,68
+PE,2015,Newborn respiratory distress syndrome,54
+PE,2015,Others,1560
+AL,2000,Unattended death,403
+AL,2000,Respiratory failure of newborn,177
+AL,2000,"Infectious gastroenteritis and colitis, unspecified",177
+AL,2000,Newborn respiratory distress syndrome,173
+AL,2000,"Bacterial sepsis of newborn, unspecified",121
+AL,2000,Others,966
+AL,2001,Unattended death,388
+AL,2001,"Infectious gastroenteritis and colitis, unspecified",211
+AL,2001,Newborn respiratory distress syndrome,178
+AL,2001,Respiratory failure of newborn,164
+AL,2001,"Bacterial sepsis of newborn, unspecified",111
+AL,2001,Others,1051
+AL,2002,Unattended death,285
+AL,2002,Newborn respiratory distress syndrome,175
+AL,2002,"Infectious gastroenteritis and colitis, unspecified",142
+AL,2002,"Bacterial sepsis of newborn, unspecified",133
+AL,2002,Respiratory failure of newborn,93
+AL,2002,Others,1044
+AL,2003,Unattended death,226
+AL,2003,"Infectious gastroenteritis and colitis, unspecified",178
+AL,2003,Newborn respiratory distress syndrome,134
+AL,2003,"Bacterial sepsis of newborn, unspecified",114
+AL,2003,Respiratory failure of newborn,87
+AL,2003,Others,915
+AL,2004,Unattended death,200
+AL,2004,Newborn respiratory distress syndrome,143
+AL,2004,"Infectious gastroenteritis and colitis, unspecified",128
+AL,2004,"Bacterial sepsis of newborn, unspecified",122
+AL,2004,Respiratory failure of newborn,89
+AL,2004,Others,705
+AL,2005,"Infectious gastroenteritis and colitis, unspecified",146
+AL,2005,Newborn respiratory distress syndrome,141
+AL,2005,"Bacterial sepsis of newborn, unspecified",118
+AL,2005,Respiratory failure of newborn,94
+AL,2005,"Pneumonia, unspecified organism",52
+AL,2005,Others,856
+AL,2006,"Bacterial sepsis of newborn, unspecified",153
+AL,2006,"Infectious gastroenteritis and colitis, unspecified",120
+AL,2006,Newborn respiratory distress syndrome,104
+AL,2006,"Pneumonia, unspecified organism",54
+AL,2006,"Infection specific to the perinatal period, unspecified",41
+AL,2006,Others,717
+AL,2007,"Bacterial sepsis of newborn, unspecified",142
+AL,2007,Newborn respiratory distress syndrome,116
+AL,2007,"Infectious gastroenteritis and colitis, unspecified",94
+AL,2007,"Pneumonia, unspecified organism",45
+AL,2007,"Congenital malformation of heart, unspecified",32
+AL,2007,Others,742
+AL,2008,"Bacterial sepsis of newborn, unspecified",117
+AL,2008,Newborn respiratory distress syndrome,99
+AL,2008,"Infectious gastroenteritis and colitis, unspecified",62
+AL,2008,"Pneumonia, unspecified organism",39
+AL,2008,"Sepsis, unspecified organism",39
+AL,2008,Others,667
+AL,2009,Newborn respiratory distress syndrome,96
+AL,2009,"Bacterial sepsis of newborn, unspecified",87
+AL,2009,"Infectious gastroenteritis and colitis, unspecified",56
+AL,2009,"Pneumonia, unspecified organism",35
+AL,2009,"Congenital malformation of heart, unspecified",35
+AL,2009,Others,695
+AL,2010,Newborn respiratory distress syndrome,78
+AL,2010,"Bacterial sepsis of newborn, unspecified",74
+AL,2010,"Respiratory distress of newborn, unspecified",49
+AL,2010,"Infectious gastroenteritis and colitis, unspecified",38
+AL,2010,"Infection specific to the perinatal period, unspecified",34
+AL,2010,Others,608
+AL,2011,Newborn respiratory distress syndrome,93
+AL,2011,"Bacterial sepsis of newborn, unspecified",90
+AL,2011,"Respiratory distress of newborn, unspecified",41
+AL,2011,"Pneumonia, unspecified organism",28
+AL,2011,"Birth asphyxia, unspecified",28
+AL,2011,Others,549
+AL,2012,"Bacterial sepsis of newborn, unspecified",96
+AL,2012,Newborn respiratory distress syndrome,63
+AL,2012,"Respiratory distress of newborn, unspecified",47
+AL,2012,"Congenital malformation of heart, unspecified",33
+AL,2012,"Sepsis, unspecified organism",27
+AL,2012,Others,518
+AL,2013,"Bacterial sepsis of newborn, unspecified",109
+AL,2013,"Respiratory distress of newborn, unspecified",66
+AL,2013,Newborn respiratory distress syndrome,54
+AL,2013,"Infectious gastroenteritis and colitis, unspecified",48
+AL,2013,"Congenital malformation of heart, unspecified",25
+AL,2013,Others,528
+AL,2014,"Bacterial sepsis of newborn, unspecified",108
+AL,2014,Newborn respiratory distress syndrome,82
+AL,2014,"Congenital malformation of heart, unspecified",36
+AL,2014,"Infectious gastroenteritis and colitis, unspecified",27
+AL,2014,"Respiratory distress of newborn, unspecified",26
+AL,2014,Others,497
+AL,2015,"Bacterial sepsis of newborn, unspecified",109
+AL,2015,Newborn respiratory distress syndrome,74
+AL,2015,"Congenital malformation of heart, unspecified",38
+AL,2015,"Respiratory distress of newborn, unspecified",33
+AL,2015,Malformações congênitas não especificadas,21
+AL,2015,Others,486
+SE,2000,Newborn respiratory distress syndrome,180
+SE,2000,Respiratory failure of newborn,95
+SE,2000,Unattended death,75
+SE,2000,"Bacterial sepsis of newborn, unspecified",74
+SE,2000,"Infectious gastroenteritis and colitis, unspecified",57
+SE,2000,Others,774
+SE,2001,Newborn respiratory distress syndrome,210
+SE,2001,"Infectious gastroenteritis and colitis, unspecified",112
+SE,2001,Unattended death,109
+SE,2001,Respiratory failure of newborn,96
+SE,2001,"Bacterial sepsis of newborn, unspecified",54
+SE,2001,Others,744
+SE,2002,Newborn respiratory distress syndrome,149
+SE,2002,Respiratory failure of newborn,129
+SE,2002,"Birth asphyxia, unspecified",63
+SE,2002,"Infectious gastroenteritis and colitis, unspecified",63
+SE,2002,"Bacterial sepsis of newborn, unspecified",50
+SE,2002,Others,668
+SE,2003,Newborn respiratory distress syndrome,116
+SE,2003,Respiratory failure of newborn,87
+SE,2003,"Infectious gastroenteritis and colitis, unspecified",74
+SE,2003,"Bacterial sepsis of newborn, unspecified",65
+SE,2003,Unattended death,53
+SE,2003,Others,653
+SE,2004,Newborn respiratory distress syndrome,91
+SE,2004,"Bacterial sepsis of newborn, unspecified",62
+SE,2004,Respiratory failure of newborn,52
+SE,2004,"Birth asphyxia, unspecified",51
+SE,2004,"Infectious gastroenteritis and colitis, unspecified",49
+SE,2004,Others,594
+SE,2005,Newborn respiratory distress syndrome,88
+SE,2005,"Infectious gastroenteritis and colitis, unspecified",74
+SE,2005,"Bacterial sepsis of newborn, unspecified",65
+SE,2005,Respiratory failure of newborn,45
+SE,2005,"Birth asphyxia, unspecified",44
+SE,2005,Others,659
+SE,2006,"Bacterial sepsis of newborn, unspecified",62
+SE,2006,Newborn affected by premature rupture of membranes,55
+SE,2006,Newborn respiratory distress syndrome,49
+SE,2006,"Infectious gastroenteritis and colitis, unspecified",45
+SE,2006,"Congenital malformation of heart, unspecified",37
+SE,2006,Others,613
+SE,2007,Newborn affected by premature rupture of membranes,45
+SE,2007,"Infectious gastroenteritis and colitis, unspecified",38
+SE,2007,Newborn respiratory distress syndrome,35
+SE,2007,"Bacterial sepsis of newborn, unspecified",31
+SE,2007,"Congenital malformation of heart, unspecified",31
+SE,2007,Others,550
+SE,2008,Newborn affected by premature rupture of membranes,41
+SE,2008,Newborn respiratory distress syndrome,35
+SE,2008,Severe birth asphyxia,34
+SE,2008,"Bacterial sepsis of newborn, unspecified",31
+SE,2008,"Infectious gastroenteritis and colitis, unspecified",30
+SE,2008,Others,547
+SE,2009,"Bacterial sepsis of newborn, unspecified",40
+SE,2009,"Infectious gastroenteritis and colitis, unspecified",34
+SE,2009,"Congenital malformation of heart, unspecified",33
+SE,2009,"Pneumonia, unspecified organism",30
+SE,2009,Newborn affected by premature rupture of membranes,27
+SE,2009,Others,483
+SE,2010,"Congenital malformation of heart, unspecified",31
+SE,2010,"Bacterial sepsis of newborn, unspecified",29
+SE,2010,Newborn respiratory distress syndrome,25
+SE,2010,Severe birth asphyxia,23
+SE,2010,Newborn affected by other complications of labor and delivery,23
+SE,2010,Others,432
+SE,2011,"Bacterial sepsis of newborn, unspecified",28
+SE,2011,"Congenital malformation of heart, unspecified",25
+SE,2011,Newborn affected by premature rupture of membranes,23
+SE,2011,"Pneumonia, unspecified organism",22
+SE,2011,Extreme immaturity of newborn,22
+SE,2011,Others,484
+SE,2012,"Bacterial sepsis of newborn, unspecified",44
+SE,2012,Severe birth asphyxia,27
+SE,2012,"Congenital malformation of heart, unspecified",27
+SE,2012,Newborn respiratory distress syndrome,27
+SE,2012,Extremely low birth weight newborn,27
+SE,2012,Others,449
+SE,2013,"Bacterial sepsis of newborn, unspecified",38
+SE,2013,Newborn respiratory distress syndrome,30
+SE,2013,"Congenital malformation of heart, unspecified",29
+SE,2013,"Pneumonia, unspecified organism",23
+SE,2013,Severe birth asphyxia,18
+SE,2013,Others,425
+SE,2014,"Bacterial sepsis of newborn, unspecified",45
+SE,2014,"Pneumonia, unspecified organism",31
+SE,2014,"Congenital malformation of heart, unspecified",30
+SE,2014,Newborn affected by premature rupture of membranes,24
+SE,2014,Extremely low birth weight newborn,22
+SE,2014,Others,419
+SE,2015,"Bacterial sepsis of newborn, unspecified",51
+SE,2015,Extremely low birth weight newborn,24
+SE,2015,Newborn affected by premature rupture of membranes,19
+SE,2015,"Congenital pneumonia, unspecified",18
+SE,2015,Newborn respiratory distress syndrome,17
+SE,2015,Others,438
+BA,2000,Unattended death,1429
+BA,2000,Respiratory failure of newborn,618
+BA,2000,Newborn respiratory distress syndrome,425
+BA,2000,"Infectious gastroenteritis and colitis, unspecified",324
+BA,2000,Ill-defined and unknown cause of mortality,310
+BA,2000,Others,3189
+BA,2001,Respiratory failure of newborn,613
+BA,2001,Unattended death,545
+BA,2001,Newborn respiratory distress syndrome,439
+BA,2001,"Infectious gastroenteritis and colitis, unspecified",292
+BA,2001,Ill-defined and unknown cause of mortality,273
+BA,2001,Others,3524
+BA,2002,Respiratory failure of newborn,600
+BA,2002,Newborn respiratory distress syndrome,453
+BA,2002,Unattended death,335
+BA,2002,"Infectious gastroenteritis and colitis, unspecified",286
+BA,2002,"Bacterial sepsis of newborn, unspecified",256
+BA,2002,Others,3500
+BA,2003,Newborn respiratory distress syndrome,444
+BA,2003,Respiratory failure of newborn,386
+BA,2003,"Infectious gastroenteritis and colitis, unspecified",315
+BA,2003,Unattended death,270
+BA,2003,"Bacterial sepsis of newborn, unspecified",254
+BA,2003,Others,3752
+BA,2004,Newborn respiratory distress syndrome,367
+BA,2004,"Bacterial sepsis of newborn, unspecified",268
+BA,2004,"Infectious gastroenteritis and colitis, unspecified",233
+BA,2004,Neonatal cardiac dysrhythmia,222
+BA,2004,"Condition originating in the perinatal period, unspecified",211
+BA,2004,Others,3798
+BA,2005,Newborn respiratory distress syndrome,366
+BA,2005,"Bacterial sepsis of newborn, unspecified",331
+BA,2005,"Infectious gastroenteritis and colitis, unspecified",235
+BA,2005,Other low birth weight newborn,230
+BA,2005,Extremely low birth weight newborn,216
+BA,2005,Others,3552
+BA,2006,Newborn respiratory distress syndrome,337
+BA,2006,"Bacterial sepsis of newborn, unspecified",318
+BA,2006,Other low birth weight newborn,226
+BA,2006,"Infectious gastroenteritis and colitis, unspecified",217
+BA,2006,Extremely low birth weight newborn,214
+BA,2006,Others,3354
+BA,2007,"Bacterial sepsis of newborn, unspecified",297
+BA,2007,Newborn respiratory distress syndrome,289
+BA,2007,Extremely low birth weight newborn,244
+BA,2007,Other low birth weight newborn,231
+BA,2007,Neonatal cardiac dysrhythmia,200
+BA,2007,Others,2984
+BA,2008,"Bacterial sepsis of newborn, unspecified",291
+BA,2008,Newborn respiratory distress syndrome,228
+BA,2008,Extremely low birth weight newborn,205
+BA,2008,"Congenital malformation of heart, unspecified",148
+BA,2008,Other low birth weight newborn,137
+BA,2008,Others,2973
+BA,2009,"Bacterial sepsis of newborn, unspecified",268
+BA,2009,Newborn respiratory distress syndrome,221
+BA,2009,Extremely low birth weight newborn,168
+BA,2009,Other low birth weight newborn,139
+BA,2009,"Congenital malformation of heart, unspecified",139
+BA,2009,Others,2971
+BA,2010,"Bacterial sepsis of newborn, unspecified",223
+BA,2010,Newborn respiratory distress syndrome,204
+BA,2010,Extremely low birth weight newborn,166
+BA,2010,"Birth asphyxia, unspecified",146
+BA,2010,"Condition originating in the perinatal period, unspecified",122
+BA,2010,Others,2807
+BA,2011,"Bacterial sepsis of newborn, unspecified",232
+BA,2011,Newborn respiratory distress syndrome,193
+BA,2011,Extremely low birth weight newborn,150
+BA,2011,"Birth asphyxia, unspecified",132
+BA,2011,"Congenital malformation of heart, unspecified",113
+BA,2011,Others,2578
+BA,2012,Newborn respiratory distress syndrome,233
+BA,2012,"Bacterial sepsis of newborn, unspecified",220
+BA,2012,Extreme immaturity of newborn,124
+BA,2012,"Congenital malformation of heart, unspecified",117
+BA,2012,"Birth asphyxia, unspecified",101
+BA,2012,Others,2548
+BA,2013,"Bacterial sepsis of newborn, unspecified",202
+BA,2013,Newborn respiratory distress syndrome,189
+BA,2013,Extreme immaturity of newborn,167
+BA,2013,"Congenital malformation of heart, unspecified",108
+BA,2013,Hipóxia intra-uterina não especificada,95
+BA,2013,Others,2513
+BA,2014,"Bacterial sepsis of newborn, unspecified",216
+BA,2014,Newborn respiratory distress syndrome,161
+BA,2014,Extreme immaturity of newborn,129
+BA,2014,"Congenital malformation of heart, unspecified",98
+BA,2014,"Birth asphyxia, unspecified",88
+BA,2014,Others,2428
+BA,2015,"Bacterial sepsis of newborn, unspecified",224
+BA,2015,Newborn respiratory distress syndrome,156
+BA,2015,Extreme immaturity of newborn,118
+BA,2015,Respiratory failure of newborn,99
+BA,2015,"Congenital malformation of heart, unspecified",95
+BA,2015,Others,2244
+MG,2000,Newborn respiratory distress syndrome,641
+MG,2000,Respiratory failure of newborn,569
+MG,2000,"Bacterial sepsis of newborn, unspecified",457
+MG,2000,Ill-defined and unknown cause of mortality,335
+MG,2000,Preterm [premature] newborn [other],194
+MG,2000,Others,3957
+MG,2001,Newborn respiratory distress syndrome,560
+MG,2001,Respiratory failure of newborn,485
+MG,2001,"Bacterial sepsis of newborn, unspecified",408
+MG,2001,Ill-defined and unknown cause of mortality,271
+MG,2001,Preterm [premature] newborn [other],190
+MG,2001,Others,3627
+MG,2002,Newborn respiratory distress syndrome,503
+MG,2002,Respiratory failure of newborn,431
+MG,2002,"Bacterial sepsis of newborn, unspecified",393
+MG,2002,Ill-defined and unknown cause of mortality,180
+MG,2002,Preterm [premature] newborn [other],174
+MG,2002,Others,3365
+MG,2003,Newborn respiratory distress syndrome,484
+MG,2003,Respiratory failure of newborn,434
+MG,2003,"Bacterial sepsis of newborn, unspecified",401
+MG,2003,Ill-defined and unknown cause of mortality,172
+MG,2003,Extreme immaturity of newborn,154
+MG,2003,Others,3276
+MG,2004,Newborn respiratory distress syndrome,487
+MG,2004,"Bacterial sepsis of newborn, unspecified",431
+MG,2004,Respiratory failure of newborn,386
+MG,2004,"Congenital malformation of heart, unspecified",163
+MG,2004,Ill-defined and unknown cause of mortality,144
+MG,2004,Others,2986
+MG,2005,"Bacterial sepsis of newborn, unspecified",452
+MG,2005,Newborn respiratory distress syndrome,427
+MG,2005,Respiratory failure of newborn,320
+MG,2005,"Congenital malformation of heart, unspecified",166
+MG,2005,Extreme immaturity of newborn,159
+MG,2005,Others,2992
+MG,2006,"Bacterial sepsis of newborn, unspecified",433
+MG,2006,Newborn respiratory distress syndrome,372
+MG,2006,Extreme immaturity of newborn,223
+MG,2006,Preterm [premature] newborn [other],194
+MG,2006,Ill-defined and unknown cause of mortality,165
+MG,2006,Others,2902
+MG,2007,"Bacterial sepsis of newborn, unspecified",421
+MG,2007,Newborn respiratory distress syndrome,322
+MG,2007,Extreme immaturity of newborn,164
+MG,2007,Ill-defined and unknown cause of mortality,138
+MG,2007,Preterm [premature] newborn [other],136
+MG,2007,Others,2608
+MG,2008,"Bacterial sepsis of newborn, unspecified",418
+MG,2008,Newborn respiratory distress syndrome,381
+MG,2008,Extreme immaturity of newborn,189
+MG,2008,"Congenital malformation of heart, unspecified",151
+MG,2008,Ill-defined and unknown cause of mortality,130
+MG,2008,Others,2505
+MG,2009,Newborn respiratory distress syndrome,349
+MG,2009,"Bacterial sepsis of newborn, unspecified",337
+MG,2009,Extreme immaturity of newborn,192
+MG,2009,"Congenital malformation of heart, unspecified",157
+MG,2009,Ill-defined and unknown cause of mortality,108
+MG,2009,Others,2350
+MG,2010,Newborn respiratory distress syndrome,330
+MG,2010,"Bacterial sepsis of newborn, unspecified",305
+MG,2010,Extreme immaturity of newborn,181
+MG,2010,"Congenital malformation of heart, unspecified",120
+MG,2010,Ill-defined and unknown cause of mortality,103
+MG,2010,Others,2253
+MG,2011,Newborn respiratory distress syndrome,331
+MG,2011,"Bacterial sepsis of newborn, unspecified",318
+MG,2011,Extreme immaturity of newborn,225
+MG,2011,"Congenital malformation of heart, unspecified",157
+MG,2011,Ill-defined and unknown cause of mortality,102
+MG,2011,Others,2216
+MG,2012,"Bacterial sepsis of newborn, unspecified",297
+MG,2012,Newborn respiratory distress syndrome,260
+MG,2012,Extreme immaturity of newborn,169
+MG,2012,"Congenital malformation of heart, unspecified",160
+MG,2012,Ill-defined and unknown cause of mortality,86
+MG,2012,Others,2295
+MG,2013,"Bacterial sepsis of newborn, unspecified",273
+MG,2013,Newborn respiratory distress syndrome,256
+MG,2013,"Congenital malformation of heart, unspecified",147
+MG,2013,Extreme immaturity of newborn,137
+MG,2013,Ill-defined and unknown cause of mortality,89
+MG,2013,Others,2196
+MG,2014,"Bacterial sepsis of newborn, unspecified",275
+MG,2014,Newborn respiratory distress syndrome,274
+MG,2014,"Congenital malformation of heart, unspecified",138
+MG,2014,Extremely low birth weight newborn,107
+MG,2014,Extreme immaturity of newborn,98
+MG,2014,Others,2116
+MG,2015,"Bacterial sepsis of newborn, unspecified",286
+MG,2015,Newborn respiratory distress syndrome,251
+MG,2015,"Congenital malformation of heart, unspecified",167
+MG,2015,Extremely low birth weight newborn,99
+MG,2015,Extreme immaturity of newborn,71
+MG,2015,Others,2150
+ES,2000,Newborn respiratory distress syndrome,94
+ES,2000,Respiratory failure of newborn,92
+ES,2000,Unattended death,89
+ES,2000,"Bacterial sepsis of newborn, unspecified",72
+ES,2000,"Birth asphyxia, unspecified",51
+ES,2000,Others,700
+ES,2001,Newborn respiratory distress syndrome,78
+ES,2001,Respiratory failure of newborn,77
+ES,2001,"Bacterial sepsis of newborn, unspecified",65
+ES,2001,"Birth asphyxia, unspecified",43
+ES,2001,Unattended death,41
+ES,2001,Others,705
+ES,2002,Newborn respiratory distress syndrome,92
+ES,2002,"Bacterial sepsis of newborn, unspecified",49
+ES,2002,Respiratory failure of newborn,45
+ES,2002,"Birth asphyxia, unspecified",38
+ES,2002,Unattended death,35
+ES,2002,Others,624
+ES,2003,Newborn respiratory distress syndrome,89
+ES,2003,"Bacterial sepsis of newborn, unspecified",67
+ES,2003,Preterm [premature] newborn [other],33
+ES,2003,"Infectious gastroenteritis and colitis, unspecified",30
+ES,2003,Extreme immaturity of newborn,29
+ES,2003,Others,619
+ES,2004,"Bacterial sepsis of newborn, unspecified",64
+ES,2004,Newborn respiratory distress syndrome,56
+ES,2004,"Birth asphyxia, unspecified",35
+ES,2004,Preterm [premature] newborn [other],29
+ES,2004,"Congenital malformation of heart, unspecified",28
+ES,2004,Others,599
+ES,2005,"Bacterial sepsis of newborn, unspecified",63
+ES,2005,Newborn respiratory distress syndrome,60
+ES,2005,"Birth asphyxia, unspecified",35
+ES,2005,Extreme immaturity of newborn,27
+ES,2005,Newborn affected by premature rupture of membranes,25
+ES,2005,Others,613
+ES,2006,"Bacterial sepsis of newborn, unspecified",69
+ES,2006,Newborn respiratory distress syndrome,51
+ES,2006,"Birth asphyxia, unspecified",33
+ES,2006,Extreme immaturity of newborn,32
+ES,2006,Newborn affected by maternal hypertensive disorders,28
+ES,2006,Others,587
+ES,2007,"Bacterial sepsis of newborn, unspecified",53
+ES,2007,Newborn affected by premature rupture of membranes,36
+ES,2007,Newborn affected by maternal hypertensive disorders,32
+ES,2007,Newborn respiratory distress syndrome,31
+ES,2007,"Birth asphyxia, unspecified",29
+ES,2007,Others,533
+ES,2008,"Bacterial sepsis of newborn, unspecified",76
+ES,2008,Newborn affected by maternal hypertensive disorders,42
+ES,2008,Newborn respiratory distress syndrome,37
+ES,2008,Extreme immaturity of newborn,32
+ES,2008,"Birth asphyxia, unspecified",29
+ES,2008,Others,534
+ES,2009,"Bacterial sepsis of newborn, unspecified",45
+ES,2009,Newborn affected by maternal hypertensive disorders,37
+ES,2009,Newborn respiratory distress syndrome,37
+ES,2009,"Congenital malformation of heart, unspecified",27
+ES,2009,Newborn affected by premature rupture of membranes,21
+ES,2009,Others,465
+ES,2010,Newborn respiratory distress syndrome,42
+ES,2010,"Bacterial sepsis of newborn, unspecified",40
+ES,2010,Newborn affected by maternal hypertensive disorders,30
+ES,2010,"Birth asphyxia, unspecified",21
+ES,2010,"Congenital malformation of heart, unspecified",20
+ES,2010,Others,466
+ES,2011,Newborn respiratory distress syndrome,45
+ES,2011,"Bacterial sepsis of newborn, unspecified",42
+ES,2011,Newborn affected by maternal hypertensive disorders,42
+ES,2011,"Birth asphyxia, unspecified",23
+ES,2011,Newborn affected by maternal renal and urinary tract diseases,21
+ES,2011,Others,450
+ES,2012,"Bacterial sepsis of newborn, unspecified",36
+ES,2012,Newborn affected by maternal hypertensive disorders,33
+ES,2012,Newborn respiratory distress syndrome,30
+ES,2012,Newborn affected by premature rupture of membranes,24
+ES,2012,Newborn affected by maternal renal and urinary tract diseases,20
+ES,2012,Others,467
+ES,2013,"Bacterial sepsis of newborn, unspecified",44
+ES,2013,Newborn affected by maternal hypertensive disorders,44
+ES,2013,Newborn respiratory distress syndrome,23
+ES,2013,Newborn affected by other forms of placental separation and hemorrhage,20
+ES,2013,Newborn affected by premature rupture of membranes,19
+ES,2013,Others,448
+ES,2014,"Bacterial sepsis of newborn, unspecified",43
+ES,2014,Newborn respiratory distress syndrome,40
+ES,2014,Newborn affected by maternal hypertensive disorders,29
+ES,2014,Congenital malformations of cardiac septa,27
+ES,2014,Newborn affected by maternal renal and urinary tract diseases,22
+ES,2014,Others,481
+ES,2015,"Bacterial sepsis of newborn, unspecified",43
+ES,2015,Newborn respiratory distress syndrome,31
+ES,2015,"Birth asphyxia, unspecified",29
+ES,2015,Newborn affected by maternal hypertensive disorders,28
+ES,2015,Congenital malformations of cardiac septa,19
+ES,2015,Others,501
+RJ,2000,Newborn respiratory distress syndrome,491
+RJ,2000,Respiratory failure of newborn,453
+RJ,2000,"Bacterial sepsis of newborn, unspecified",389
+RJ,2000,Ill-defined and unknown cause of mortality,246
+RJ,2000,"Pneumonia, unspecified organism",186
+RJ,2000,Others,3368
+RJ,2001,Newborn respiratory distress syndrome,500
+RJ,2001,"Bacterial sepsis of newborn, unspecified",462
+RJ,2001,Respiratory failure of newborn,340
+RJ,2001,Ill-defined and unknown cause of mortality,168
+RJ,2001,"Pneumonia, unspecified organism",135
+RJ,2001,Others,2815
+RJ,2002,Newborn respiratory distress syndrome,431
+RJ,2002,"Bacterial sepsis of newborn, unspecified",361
+RJ,2002,Respiratory failure of newborn,242
+RJ,2002,Ill-defined and unknown cause of mortality,159
+RJ,2002,"Birth asphyxia, unspecified",143
+RJ,2002,Others,2847
+RJ,2003,Newborn respiratory distress syndrome,469
+RJ,2003,"Bacterial sepsis of newborn, unspecified",413
+RJ,2003,Ill-defined and unknown cause of mortality,150
+RJ,2003,"Pneumonia, unspecified organism",145
+RJ,2003,Respiratory failure of newborn,145
+RJ,2003,Others,2791
+RJ,2004,Newborn respiratory distress syndrome,413
+RJ,2004,"Bacterial sepsis of newborn, unspecified",389
+RJ,2004,"Congenital malformation of heart, unspecified",149
+RJ,2004,"Pneumonia, unspecified organism",138
+RJ,2004,Ill-defined and unknown cause of mortality,135
+RJ,2004,Others,2739
+RJ,2005,Newborn respiratory distress syndrome,423
+RJ,2005,"Bacterial sepsis of newborn, unspecified",368
+RJ,2005,"Congenital malformation of heart, unspecified",125
+RJ,2005,Ill-defined and unknown cause of mortality,120
+RJ,2005,"Pneumonia, unspecified organism",118
+RJ,2005,Others,2425
+RJ,2006,Newborn respiratory distress syndrome,325
+RJ,2006,"Bacterial sepsis of newborn, unspecified",300
+RJ,2006,"Birth asphyxia, unspecified",110
+RJ,2006,"Congenital malformation of heart, unspecified",109
+RJ,2006,Extremely low birth weight newborn,103
+RJ,2006,Others,2402
+RJ,2007,Newborn respiratory distress syndrome,360
+RJ,2007,"Bacterial sepsis of newborn, unspecified",287
+RJ,2007,"Congenital malformation of heart, unspecified",119
+RJ,2007,"Birth asphyxia, unspecified",108
+RJ,2007,"Pneumonia, unspecified organism",105
+RJ,2007,Others,2229
+RJ,2008,"Bacterial sepsis of newborn, unspecified",296
+RJ,2008,Newborn respiratory distress syndrome,270
+RJ,2008,"Congenital malformation of heart, unspecified",107
+RJ,2008,"Birth asphyxia, unspecified",107
+RJ,2008,Newborn affected by maternal hypertensive disorders,80
+RJ,2008,Others,2252
+RJ,2009,Newborn respiratory distress syndrome,307
+RJ,2009,"Bacterial sepsis of newborn, unspecified",295
+RJ,2009,"Birth asphyxia, unspecified",117
+RJ,2009,"Pneumonia, unspecified organism",103
+RJ,2009,"Congenital malformation of heart, unspecified",97
+RJ,2009,Others,2208
+RJ,2010,Newborn respiratory distress syndrome,262
+RJ,2010,"Bacterial sepsis of newborn, unspecified",232
+RJ,2010,"Congenital malformation of heart, unspecified",124
+RJ,2010,"Birth asphyxia, unspecified",114
+RJ,2010,Newborn affected by maternal hypertensive disorders,105
+RJ,2010,Others,2175
+RJ,2011,"Bacterial sepsis of newborn, unspecified",255
+RJ,2011,Newborn respiratory distress syndrome,232
+RJ,2011,Newborn affected by maternal hypertensive disorders,125
+RJ,2011,"Congenital malformation of heart, unspecified",117
+RJ,2011,Ill-defined and unknown cause of mortality,89
+RJ,2011,Others,2246
+RJ,2012,"Bacterial sepsis of newborn, unspecified",230
+RJ,2012,Newborn respiratory distress syndrome,223
+RJ,2012,Newborn affected by maternal hypertensive disorders,125
+RJ,2012,"Pneumonia, unspecified organism",122
+RJ,2012,"Congenital malformation of heart, unspecified",114
+RJ,2012,Others,2272
+RJ,2013,"Bacterial sepsis of newborn, unspecified",222
+RJ,2013,Newborn respiratory distress syndrome,213
+RJ,2013,Newborn affected by maternal hypertensive disorders,128
+RJ,2013,"Congenital malformation of heart, unspecified",122
+RJ,2013,"Pneumonia, unspecified organism",101
+RJ,2013,Others,2153
+RJ,2014,Newborn respiratory distress syndrome,257
+RJ,2014,"Bacterial sepsis of newborn, unspecified",239
+RJ,2014,Newborn affected by maternal hypertensive disorders,111
+RJ,2014,"Congenital malformation of heart, unspecified",110
+RJ,2014,"Pneumonia, unspecified organism",88
+RJ,2014,Others,2164
+RJ,2015,"Bacterial sepsis of newborn, unspecified",262
+RJ,2015,Newborn respiratory distress syndrome,191
+RJ,2015,Newborn affected by maternal hypertensive disorders,115
+RJ,2015,"Congenital malformation of heart, unspecified",94
+RJ,2015,"Pneumonia, unspecified organism",93
+RJ,2015,Others,2221
+SP,2000,Newborn respiratory distress syndrome,1340
+SP,2000,"Bacterial sepsis of newborn, unspecified",816
+SP,2000,Respiratory failure of newborn,676
+SP,2000,"Bronchopneumonia, unspecified organism",526
+SP,2000,"Congenital malformation of heart, unspecified",509
+SP,2000,Others,8149
+SP,2001,Newborn respiratory distress syndrome,1103
+SP,2001,"Bacterial sepsis of newborn, unspecified",832
+SP,2001,Respiratory failure of newborn,538
+SP,2001,"Congenital malformation of heart, unspecified",455
+SP,2001,"Bronchopneumonia, unspecified organism",419
+SP,2001,Others,7193
+SP,2002,Newborn respiratory distress syndrome,1046
+SP,2002,"Bacterial sepsis of newborn, unspecified",828
+SP,2002,Respiratory failure of newborn,442
+SP,2002,"Congenital malformation of heart, unspecified",396
+SP,2002,"Bronchopneumonia, unspecified organism",342
+SP,2002,Others,6560
+SP,2003,Newborn respiratory distress syndrome,965
+SP,2003,"Bacterial sepsis of newborn, unspecified",849
+SP,2003,Respiratory failure of newborn,424
+SP,2003,"Congenital malformation of heart, unspecified",387
+SP,2003,"Bronchopneumonia, unspecified organism",329
+SP,2003,Others,6415
+SP,2004,"Bacterial sepsis of newborn, unspecified",892
+SP,2004,Newborn respiratory distress syndrome,855
+SP,2004,"Congenital malformation of heart, unspecified",408
+SP,2004,Respiratory failure of newborn,365
+SP,2004,"Bronchopneumonia, unspecified organism",270
+SP,2004,Others,6254
+SP,2005,"Bacterial sepsis of newborn, unspecified",837
+SP,2005,Newborn respiratory distress syndrome,813
+SP,2005,"Congenital malformation of heart, unspecified",412
+SP,2005,Respiratory failure of newborn,339
+SP,2005,"Bronchopneumonia, unspecified organism",244
+SP,2005,Others,5799
+SP,2006,"Bacterial sepsis of newborn, unspecified",757
+SP,2006,Newborn respiratory distress syndrome,690
+SP,2006,"Congenital malformation of heart, unspecified",333
+SP,2006,"Bronchopneumonia, unspecified organism",237
+SP,2006,Extreme immaturity of newborn,215
+SP,2006,Others,5916
+SP,2007,"Bacterial sepsis of newborn, unspecified",880
+SP,2007,Newborn respiratory distress syndrome,649
+SP,2007,"Congenital malformation of heart, unspecified",322
+SP,2007,Extreme immaturity of newborn,221
+SP,2007,"Bronchopneumonia, unspecified organism",205
+SP,2007,Others,5573
+SP,2008,"Bacterial sepsis of newborn, unspecified",822
+SP,2008,Newborn respiratory distress syndrome,643
+SP,2008,"Congenital malformation of heart, unspecified",305
+SP,2008,Extreme immaturity of newborn,195
+SP,2008,Ill-defined and unknown cause of mortality,182
+SP,2008,Others,5530
+SP,2009,"Bacterial sepsis of newborn, unspecified",839
+SP,2009,Newborn respiratory distress syndrome,618
+SP,2009,"Congenital malformation of heart, unspecified",317
+SP,2009,Extreme immaturity of newborn,195
+SP,2009,Primary atelectasis of newborn,162
+SP,2009,Others,5444
+SP,2010,"Bacterial sepsis of newborn, unspecified",745
+SP,2010,Newborn respiratory distress syndrome,569
+SP,2010,"Congenital malformation of heart, unspecified",272
+SP,2010,Extreme immaturity of newborn,174
+SP,2010,Necrotizing enterocolitis of newborn,173
+SP,2010,Others,5322
+SP,2011,"Bacterial sepsis of newborn, unspecified",749
+SP,2011,Newborn respiratory distress syndrome,541
+SP,2011,"Congenital malformation of heart, unspecified",264
+SP,2011,Necrotizing enterocolitis of newborn,168
+SP,2011,Extreme immaturity of newborn,165
+SP,2011,Others,5282
+SP,2012,"Bacterial sepsis of newborn, unspecified",686
+SP,2012,Newborn respiratory distress syndrome,537
+SP,2012,"Congenital malformation of heart, unspecified",250
+SP,2012,Necrotizing enterocolitis of newborn,177
+SP,2012,Newborn affected by maternal hypertensive disorders,165
+SP,2012,Others,5424
+SP,2013,"Bacterial sepsis of newborn, unspecified",598
+SP,2013,Newborn respiratory distress syndrome,442
+SP,2013,"Congenital malformation of heart, unspecified",248
+SP,2013,Newborn affected by maternal hypertensive disorders,200
+SP,2013,Newborn affected by premature rupture of membranes,184
+SP,2013,Others,5502
+SP,2014,"Bacterial sepsis of newborn, unspecified",594
+SP,2014,Newborn respiratory distress syndrome,426
+SP,2014,"Congenital malformation of heart, unspecified",290
+SP,2014,Newborn affected by maternal hypertensive disorders,235
+SP,2014,Newborn affected by premature rupture of membranes,193
+SP,2014,Others,5551
+SP,2015,"Bacterial sepsis of newborn, unspecified",558
+SP,2015,Newborn respiratory distress syndrome,417
+SP,2015,"Congenital malformation of heart, unspecified",247
+SP,2015,Newborn affected by maternal hypertensive disorders,227
+SP,2015,Newborn affected by premature rupture of membranes,186
+SP,2015,Others,5317
+PR,2000,Newborn respiratory distress syndrome,321
+PR,2000,Respiratory failure of newborn,265
+PR,2000,"Congenital malformation of heart, unspecified",161
+PR,2000,"Bacterial sepsis of newborn, unspecified",149
+PR,2000,"Infectious gastroenteritis and colitis, unspecified",111
+PR,2000,Others,2510
+PR,2001,Newborn respiratory distress syndrome,304
+PR,2001,Respiratory failure of newborn,185
+PR,2001,"Congenital malformation of heart, unspecified",150
+PR,2001,"Bacterial sepsis of newborn, unspecified",120
+PR,2001,"Infectious gastroenteritis and colitis, unspecified",67
+PR,2001,Others,2145
+PR,2002,Newborn respiratory distress syndrome,277
+PR,2002,"Congenital malformation of heart, unspecified",154
+PR,2002,Respiratory failure of newborn,127
+PR,2002,"Bacterial sepsis of newborn, unspecified",119
+PR,2002,"Infectious gastroenteritis and colitis, unspecified",57
+PR,2002,Others,2074
+PR,2003,Newborn respiratory distress syndrome,244
+PR,2003,"Congenital malformation of heart, unspecified",152
+PR,2003,Respiratory failure of newborn,132
+PR,2003,"Bacterial sepsis of newborn, unspecified",102
+PR,2003,Newborn affected by premature rupture of membranes,58
+PR,2003,Others,1971
+PR,2004,Newborn respiratory distress syndrome,223
+PR,2004,"Congenital malformation of heart, unspecified",141
+PR,2004,"Bacterial sepsis of newborn, unspecified",114
+PR,2004,Respiratory failure of newborn,99
+PR,2004,Newborn affected by premature rupture of membranes,66
+PR,2004,Others,1860
+PR,2005,Newborn respiratory distress syndrome,223
+PR,2005,"Congenital malformation of heart, unspecified",129
+PR,2005,"Bacterial sepsis of newborn, unspecified",95
+PR,2005,Respiratory failure of newborn,94
+PR,2005,Newborn affected by premature rupture of membranes,60
+PR,2005,Others,1751
+PR,2006,"Congenital malformation of heart, unspecified",137
+PR,2006,Newborn respiratory distress syndrome,122
+PR,2006,"Bacterial sepsis of newborn, unspecified",97
+PR,2006,Extreme immaturity of newborn,72
+PR,2006,Newborn affected by maternal hypertensive disorders,65
+PR,2006,Others,1674
+PR,2007,Newborn respiratory distress syndrome,120
+PR,2007,"Congenital malformation of heart, unspecified",107
+PR,2007,"Bacterial sepsis of newborn, unspecified",84
+PR,2007,Newborn affected by maternal hypertensive disorders,66
+PR,2007,Extreme immaturity of newborn,59
+PR,2007,Others,1563
+PR,2008,Newborn respiratory distress syndrome,151
+PR,2008,"Congenital malformation of heart, unspecified",91
+PR,2008,Newborn affected by maternal hypertensive disorders,76
+PR,2008,"Bacterial sepsis of newborn, unspecified",74
+PR,2008,Newborn affected by premature rupture of membranes,50
+PR,2008,Others,1565
+PR,2009,Newborn respiratory distress syndrome,140
+PR,2009,"Congenital malformation of heart, unspecified",118
+PR,2009,Newborn affected by maternal hypertensive disorders,70
+PR,2009,"Bacterial sepsis of newborn, unspecified",69
+PR,2009,Newborn affected by premature rupture of membranes,56
+PR,2009,Others,1451
+PR,2010,Newborn respiratory distress syndrome,126
+PR,2010,"Congenital malformation of heart, unspecified",106
+PR,2010,Newborn affected by maternal hypertensive disorders,71
+PR,2010,"Bacterial sepsis of newborn, unspecified",66
+PR,2010,Newborn affected by premature rupture of membranes,48
+PR,2010,Others,1473
+PR,2011,Newborn respiratory distress syndrome,113
+PR,2011,"Congenital malformation of heart, unspecified",86
+PR,2011,"Bacterial sepsis of newborn, unspecified",69
+PR,2011,Newborn affected by maternal hypertensive disorders,69
+PR,2011,Newborn affected by premature rupture of membranes,57
+PR,2011,Others,1437
+PR,2012,Newborn respiratory distress syndrome,101
+PR,2012,"Congenital malformation of heart, unspecified",95
+PR,2012,"Bacterial sepsis of newborn, unspecified",81
+PR,2012,Newborn affected by maternal hypertensive disorders,77
+PR,2012,Newborn affected by premature rupture of membranes,51
+PR,2012,Others,1436
+PR,2013,Newborn affected by maternal hypertensive disorders,101
+PR,2013,Newborn respiratory distress syndrome,98
+PR,2013,"Congenital malformation of heart, unspecified",78
+PR,2013,"Bacterial sepsis of newborn, unspecified",74
+PR,2013,Newborn affected by premature rupture of membranes,56
+PR,2013,Others,1341
+PR,2014,"Congenital malformation of heart, unspecified",109
+PR,2014,Newborn affected by maternal hypertensive disorders,98
+PR,2014,Newborn respiratory distress syndrome,94
+PR,2014,"Bacterial sepsis of newborn, unspecified",80
+PR,2014,Newborn affected by maternal renal and urinary tract diseases,62
+PR,2014,Others,1397
+PR,2015,Newborn affected by maternal hypertensive disorders,105
+PR,2015,"Congenital malformation of heart, unspecified",74
+PR,2015,"Bacterial sepsis of newborn, unspecified",73
+PR,2015,Newborn respiratory distress syndrome,69
+PR,2015,Newborn affected by premature rupture of membranes,57
+PR,2015,Others,1415
+SC,2000,Newborn respiratory distress syndrome,170
+SC,2000,Respiratory failure of newborn,107
+SC,2000,"Bacterial sepsis of newborn, unspecified",61
+SC,2000,Unattended death,56
+SC,2000,"Birth asphyxia, unspecified",54
+SC,2000,Others,1030
+SC,2001,Newborn respiratory distress syndrome,161
+SC,2001,Respiratory failure of newborn,115
+SC,2001,"Bacterial sepsis of newborn, unspecified",97
+SC,2001,"Congenital malformation of heart, unspecified",52
+SC,2001,Unattended death,46
+SC,2001,Others,845
+SC,2002,Newborn respiratory distress syndrome,132
+SC,2002,Respiratory failure of newborn,83
+SC,2002,"Bacterial sepsis of newborn, unspecified",80
+SC,2002,"Congenital malformation of heart, unspecified",51
+SC,2002,Unattended death,45
+SC,2002,Others,883
+SC,2003,Newborn respiratory distress syndrome,127
+SC,2003,"Bacterial sepsis of newborn, unspecified",101
+SC,2003,"Congenital malformation of heart, unspecified",50
+SC,2003,Extreme immaturity of newborn,41
+SC,2003,"Birth asphyxia, unspecified",38
+SC,2003,Others,768
+SC,2004,Newborn respiratory distress syndrome,100
+SC,2004,"Bacterial sepsis of newborn, unspecified",99
+SC,2004,Respiratory failure of newborn,82
+SC,2004,"Congenital malformation of heart, unspecified",60
+SC,2004,Anencephaly,25
+SC,2004,Others,752
+SC,2005,"Bacterial sepsis of newborn, unspecified",98
+SC,2005,Newborn respiratory distress syndrome,92
+SC,2005,Respiratory failure of newborn,87
+SC,2005,"Congenital malformation of heart, unspecified",54
+SC,2005,Extreme immaturity of newborn,30
+SC,2005,Others,671
+SC,2006,Newborn respiratory distress syndrome,97
+SC,2006,"Bacterial sepsis of newborn, unspecified",90
+SC,2006,Extreme immaturity of newborn,53
+SC,2006,"Congenital malformation of heart, unspecified",46
+SC,2006,"Birth asphyxia, unspecified",26
+SC,2006,Others,736
+SC,2007,"Bacterial sepsis of newborn, unspecified",102
+SC,2007,Newborn respiratory distress syndrome,94
+SC,2007,"Congenital malformation of heart, unspecified",41
+SC,2007,Extreme immaturity of newborn,33
+SC,2007,Ill-defined and unknown cause of mortality,29
+SC,2007,Others,715
+SC,2008,Newborn respiratory distress syndrome,86
+SC,2008,"Bacterial sepsis of newborn, unspecified",65
+SC,2008,"Congenital malformation of heart, unspecified",60
+SC,2008,Extreme immaturity of newborn,46
+SC,2008,Necrotizing enterocolitis of newborn,24
+SC,2008,Others,695
+SC,2009,"Bacterial sepsis of newborn, unspecified",81
+SC,2009,Newborn respiratory distress syndrome,80
+SC,2009,Extreme immaturity of newborn,44
+SC,2009,"Congenital malformation of heart, unspecified",41
+SC,2009,Necrotizing enterocolitis of newborn,22
+SC,2009,Others,634
+SC,2010,"Bacterial sepsis of newborn, unspecified",80
+SC,2010,Newborn respiratory distress syndrome,79
+SC,2010,"Congenital malformation of heart, unspecified",43
+SC,2010,Extreme immaturity of newborn,32
+SC,2010,"Birth asphyxia, unspecified",24
+SC,2010,Others,592
+SC,2011,"Bacterial sepsis of newborn, unspecified",85
+SC,2011,Newborn respiratory distress syndrome,68
+SC,2011,"Congenital malformation of heart, unspecified",51
+SC,2011,Extreme immaturity of newborn,44
+SC,2011,Preterm [premature] newborn [other],27
+SC,2011,Others,719
+SC,2012,Newborn respiratory distress syndrome,81
+SC,2012,"Bacterial sepsis of newborn, unspecified",77
+SC,2012,"Congenital malformation of heart, unspecified",31
+SC,2012,Necrotizing enterocolitis of newborn,24
+SC,2012,"Sepsis, unspecified organism",22
+SC,2012,Others,674
+SC,2013,"Bacterial sepsis of newborn, unspecified",62
+SC,2013,Newborn respiratory distress syndrome,58
+SC,2013,"Congenital malformation of heart, unspecified",43
+SC,2013,Congenital hypoplasia and dysplasia of lung,19
+SC,2013,Newborn affected by maternal renal and urinary tract diseases,19
+SC,2013,Others,693
+SC,2014,Newborn respiratory distress syndrome,60
+SC,2014,"Bacterial sepsis of newborn, unspecified",57
+SC,2014,"Congenital malformation of heart, unspecified",39
+SC,2014,Necrotizing enterocolitis of newborn,26
+SC,2014,Extreme immaturity of newborn,19
+SC,2014,Others,703
+SC,2015,"Bacterial sepsis of newborn, unspecified",86
+SC,2015,Newborn respiratory distress syndrome,71
+SC,2015,"Congenital malformation of heart, unspecified",32
+SC,2015,"Birth asphyxia, unspecified",26
+SC,2015,Extreme immaturity of newborn,24
+SC,2015,Others,692
+RS,2000,Newborn respiratory distress syndrome,291
+RS,2000,"Bacterial sepsis of newborn, unspecified",189
+RS,2000,Respiratory failure of newborn,131
+RS,2000,"Congenital malformation of heart, unspecified",117
+RS,2000,"Bronchopneumonia, unspecified organism",77
+RS,2000,Others,1877
+RS,2001,Newborn respiratory distress syndrome,312
+RS,2001,"Bacterial sepsis of newborn, unspecified",143
+RS,2001,Respiratory failure of newborn,121
+RS,2001,"Congenital malformation of heart, unspecified",112
+RS,2001,"Bronchopneumonia, unspecified organism",58
+RS,2001,Others,1794
+RS,2002,Newborn respiratory distress syndrome,280
+RS,2002,"Bacterial sepsis of newborn, unspecified",154
+RS,2002,"Congenital malformation of heart, unspecified",118
+RS,2002,Respiratory failure of newborn,109
+RS,2002,"Birth asphyxia, unspecified",68
+RS,2002,Others,1697
+RS,2003,Newborn respiratory distress syndrome,267
+RS,2003,"Bacterial sepsis of newborn, unspecified",165
+RS,2003,"Congenital malformation of heart, unspecified",107
+RS,2003,Ill-defined and unknown cause of mortality,79
+RS,2003,Respiratory failure of newborn,64
+RS,2003,Others,1704
+RS,2004,Newborn respiratory distress syndrome,260
+RS,2004,"Bacterial sepsis of newborn, unspecified",150
+RS,2004,"Congenital malformation of heart, unspecified",123
+RS,2004,"Birth asphyxia, unspecified",59
+RS,2004,"Condition originating in the perinatal period, unspecified",55
+RS,2004,Others,1678
+RS,2005,Newborn respiratory distress syndrome,243
+RS,2005,"Bacterial sepsis of newborn, unspecified",127
+RS,2005,"Congenital malformation of heart, unspecified",88
+RS,2005,"Birth asphyxia, unspecified",57
+RS,2005,Ill-defined and unknown cause of mortality,55
+RS,2005,Others,1449
+RS,2006,Newborn respiratory distress syndrome,194
+RS,2006,"Bacterial sepsis of newborn, unspecified",156
+RS,2006,"Congenital malformation of heart, unspecified",94
+RS,2006,Newborn affected by maternal hypertensive disorders,47
+RS,2006,"Birth asphyxia, unspecified",42
+RS,2006,Others,1322
+RS,2007,Newborn respiratory distress syndrome,177
+RS,2007,"Bacterial sepsis of newborn, unspecified",144
+RS,2007,"Congenital malformation of heart, unspecified",78
+RS,2007,"Birth asphyxia, unspecified",42
+RS,2007,Newborn affected by other forms of placental separation and hemorrhage,41
+RS,2007,Others,1227
+RS,2008,Newborn respiratory distress syndrome,181
+RS,2008,"Bacterial sepsis of newborn, unspecified",156
+RS,2008,"Congenital malformation of heart, unspecified",72
+RS,2008,"Birth asphyxia, unspecified",50
+RS,2008,Necrotizing enterocolitis of newborn,44
+RS,2008,Others,1225
+RS,2009,"Bacterial sepsis of newborn, unspecified",138
+RS,2009,Newborn respiratory distress syndrome,135
+RS,2009,"Congenital malformation of heart, unspecified",58
+RS,2009,"Birth asphyxia, unspecified",45
+RS,2009,Ill-defined and unknown cause of mortality,45
+RS,2009,Others,1140
+RS,2010,Newborn respiratory distress syndrome,120
+RS,2010,"Bacterial sepsis of newborn, unspecified",104
+RS,2010,"Congenital malformation of heart, unspecified",51
+RS,2010,"Birth asphyxia, unspecified",43
+RS,2010,Extreme immaturity of newborn,43
+RS,2010,Others,1148
+RS,2011,Newborn respiratory distress syndrome,136
+RS,2011,"Bacterial sepsis of newborn, unspecified",124
+RS,2011,"Congenital malformation of heart, unspecified",69
+RS,2011,"Birth asphyxia, unspecified",45
+RS,2011,Extreme immaturity of newborn,40
+RS,2011,Others,1187
+RS,2012,"Bacterial sepsis of newborn, unspecified",121
+RS,2012,Newborn respiratory distress syndrome,114
+RS,2012,"Congenital malformation of heart, unspecified",53
+RS,2012,Newborn affected by maternal hypertensive disorders,47
+RS,2012,Necrotizing enterocolitis of newborn,42
+RS,2012,Others,1130
+RS,2013,"Bacterial sepsis of newborn, unspecified",123
+RS,2013,Newborn respiratory distress syndrome,99
+RS,2013,"Congenital malformation of heart, unspecified",62
+RS,2013,Newborn affected by maternal hypertensive disorders,42
+RS,2013,Ill-defined and unknown cause of mortality,32
+RS,2013,Others,1148
+RS,2014,"Bacterial sepsis of newborn, unspecified",118
+RS,2014,Newborn respiratory distress syndrome,94
+RS,2014,"Congenital malformation of heart, unspecified",66
+RS,2014,Newborn affected by maternal hypertensive disorders,57
+RS,2014,Necrotizing enterocolitis of newborn,43
+RS,2014,Others,1164
+RS,2015,"Bacterial sepsis of newborn, unspecified",110
+RS,2015,Newborn respiratory distress syndrome,107
+RS,2015,Newborn affected by maternal hypertensive disorders,57
+RS,2015,"Congenital malformation of heart, unspecified",43
+RS,2015,"Birth asphyxia, unspecified",39
+RS,2015,Others,1169
+MS,2000,Respiratory failure of newborn,92
+MS,2000,Newborn respiratory distress syndrome,88
+MS,2000,"Bacterial sepsis of newborn, unspecified",56
+MS,2000,"Infectious gastroenteritis and colitis, unspecified",56
+MS,2000,"Sepsis, unspecified organism",41
+MS,2000,Others,630
+MS,2001,Respiratory failure of newborn,98
+MS,2001,Newborn respiratory distress syndrome,88
+MS,2001,"Infectious gastroenteritis and colitis, unspecified",48
+MS,2001,"Bacterial sepsis of newborn, unspecified",42
+MS,2001,"Congenital malformation of heart, unspecified",35
+MS,2001,Others,641
+MS,2002,Newborn respiratory distress syndrome,71
+MS,2002,"Infectious gastroenteritis and colitis, unspecified",49
+MS,2002,"Bacterial sepsis of newborn, unspecified",47
+MS,2002,"Congenital malformation of heart, unspecified",43
+MS,2002,Respiratory failure of newborn,41
+MS,2002,Others,557
+MS,2003,Newborn respiratory distress syndrome,68
+MS,2003,"Bacterial sepsis of newborn, unspecified",52
+MS,2003,"Infectious gastroenteritis and colitis, unspecified",43
+MS,2003,"Congenital malformation of heart, unspecified",38
+MS,2003,Other low birth weight newborn,28
+MS,2003,Others,544
+MS,2004,Newborn respiratory distress syndrome,70
+MS,2004,"Bacterial sepsis of newborn, unspecified",69
+MS,2004,"Pneumonia, unspecified organism",51
+MS,2004,"Infectious gastroenteritis and colitis, unspecified",39
+MS,2004,"Congenital malformation of heart, unspecified",37
+MS,2004,Others,610
+MS,2005,"Bacterial sepsis of newborn, unspecified",67
+MS,2005,Newborn respiratory distress syndrome,65
+MS,2005,"Infectious gastroenteritis and colitis, unspecified",41
+MS,2005,Unspecified severe protein-calorie malnutrition,29
+MS,2005,"Congenital malformation of heart, unspecified",28
+MS,2005,Others,557
+MS,2006,"Bacterial sepsis of newborn, unspecified",75
+MS,2006,Newborn respiratory distress syndrome,53
+MS,2006,"Congenital malformation of heart, unspecified",42
+MS,2006,"Infectious gastroenteritis and colitis, unspecified",42
+MS,2006,Newborn affected by premature rupture of membranes,28
+MS,2006,Others,498
+MS,2007,"Bacterial sepsis of newborn, unspecified",59
+MS,2007,Newborn respiratory distress syndrome,49
+MS,2007,"Infectious gastroenteritis and colitis, unspecified",44
+MS,2007,"Congenital malformation of heart, unspecified",33
+MS,2007,"Infection specific to the perinatal period, unspecified",25
+MS,2007,Others,528
+MS,2008,Newborn respiratory distress syndrome,55
+MS,2008,"Bacterial sepsis of newborn, unspecified",52
+MS,2008,"Congenital malformation of heart, unspecified",31
+MS,2008,Newborn affected by premature rupture of membranes,27
+MS,2008,"Pneumonia, unspecified organism",23
+MS,2008,Others,486
+MS,2009,"Bacterial sepsis of newborn, unspecified",60
+MS,2009,"Congenital malformation of heart, unspecified",40
+MS,2009,Newborn respiratory distress syndrome,39
+MS,2009,"Infectious gastroenteritis and colitis, unspecified",37
+MS,2009,"Pneumonia, unspecified organism",25
+MS,2009,Others,518
+MS,2010,"Bacterial sepsis of newborn, unspecified",42
+MS,2010,Newborn respiratory distress syndrome,36
+MS,2010,"Infectious gastroenteritis and colitis, unspecified",30
+MS,2010,"Congenital malformation of heart, unspecified",27
+MS,2010,"Infection specific to the perinatal period, unspecified",18
+MS,2010,Others,466
+MS,2011,Newborn respiratory distress syndrome,43
+MS,2011,"Bacterial sepsis of newborn, unspecified",35
+MS,2011,"Congenital malformation of heart, unspecified",25
+MS,2011,Extremely low birth weight newborn,18
+MS,2011,"Pneumonia, unspecified organism",17
+MS,2011,Others,405
+MS,2012,Newborn respiratory distress syndrome,38
+MS,2012,"Bacterial sepsis of newborn, unspecified",27
+MS,2012,"Infectious gastroenteritis and colitis, unspecified",25
+MS,2012,"Congenital malformation of heart, unspecified",24
+MS,2012,Newborn affected by premature rupture of membranes,16
+MS,2012,Others,414
+MS,2013,"Bacterial sepsis of newborn, unspecified",32
+MS,2013,Newborn respiratory distress syndrome,27
+MS,2013,"Congenital malformation of heart, unspecified",26
+MS,2013,"Infectious gastroenteritis and colitis, unspecified",16
+MS,2013,Newborn affected by premature rupture of membranes,16
+MS,2013,Others,416
+MS,2014,Newborn respiratory distress syndrome,35
+MS,2014,"Congenital malformation of heart, unspecified",33
+MS,2014,"Bacterial sepsis of newborn, unspecified",27
+MS,2014,Newborn affected by other forms of placental separation and hemorrhage,17
+MS,2014,Newborn affected by premature rupture of membranes,14
+MS,2014,Others,429
+MS,2015,"Congenital malformation of heart, unspecified",34
+MS,2015,"Bacterial sepsis of newborn, unspecified",31
+MS,2015,Newborn respiratory distress syndrome,30
+MS,2015,Newborn affected by premature rupture of membranes,18
+MS,2015,Anencephaly,13
+MS,2015,Others,389
+MT,2000,Respiratory failure of newborn,112
+MT,2000,Newborn respiratory distress syndrome,107
+MT,2000,"Bacterial sepsis of newborn, unspecified",81
+MT,2000,"Congenital malformation of heart, unspecified",54
+MT,2000,"Infectious gastroenteritis and colitis, unspecified",48
+MT,2000,Others,691
+MT,2001,Respiratory failure of newborn,105
+MT,2001,Newborn respiratory distress syndrome,98
+MT,2001,"Bacterial sepsis of newborn, unspecified",76
+MT,2001,"Infectious gastroenteritis and colitis, unspecified",36
+MT,2001,"Condition originating in the perinatal period, unspecified",33
+MT,2001,Others,630
+MT,2002,Respiratory failure of newborn,112
+MT,2002,Newborn respiratory distress syndrome,91
+MT,2002,"Bacterial sepsis of newborn, unspecified",62
+MT,2002,"Infectious gastroenteritis and colitis, unspecified",35
+MT,2002,"Congenital malformation of heart, unspecified",31
+MT,2002,Others,617
+MT,2003,Newborn respiratory distress syndrome,81
+MT,2003,Respiratory failure of newborn,79
+MT,2003,"Bacterial sepsis of newborn, unspecified",69
+MT,2003,"Infectious gastroenteritis and colitis, unspecified",31
+MT,2003,"Congenital malformation of heart, unspecified",29
+MT,2003,Others,572
+MT,2004,Newborn respiratory distress syndrome,99
+MT,2004,"Bacterial sepsis of newborn, unspecified",88
+MT,2004,Respiratory failure of newborn,71
+MT,2004,"Congenital malformation of heart, unspecified",39
+MT,2004,"Sepsis, unspecified organism",33
+MT,2004,Others,600
+MT,2005,Newborn respiratory distress syndrome,73
+MT,2005,Respiratory failure of newborn,70
+MT,2005,"Bacterial sepsis of newborn, unspecified",66
+MT,2005,"Congenital malformation of heart, unspecified",38
+MT,2005,Newborn affected by premature rupture of membranes,33
+MT,2005,Others,652
+MT,2006,"Bacterial sepsis of newborn, unspecified",55
+MT,2006,Newborn respiratory distress syndrome,53
+MT,2006,"Congenital malformation of heart, unspecified",31
+MT,2006,"Sepsis, unspecified organism",30
+MT,2006,Ill-defined and unknown cause of mortality,23
+MT,2006,Others,606
+MT,2007,Newborn respiratory distress syndrome,72
+MT,2007,"Bacterial sepsis of newborn, unspecified",48
+MT,2007,"Congenital malformation of heart, unspecified",36
+MT,2007,Newborn affected by premature rupture of membranes,22
+MT,2007,Preterm [premature] newborn [other],21
+MT,2007,Others,531
+MT,2008,Newborn respiratory distress syndrome,66
+MT,2008,"Bacterial sepsis of newborn, unspecified",61
+MT,2008,"Congenital malformation of heart, unspecified",29
+MT,2008,Newborn affected by premature rupture of membranes,20
+MT,2008,Extreme immaturity of newborn,18
+MT,2008,Others,561
+MT,2009,"Bacterial sepsis of newborn, unspecified",50
+MT,2009,Newborn respiratory distress syndrome,49
+MT,2009,Newborn affected by premature rupture of membranes,22
+MT,2009,"Congenital malformation of heart, unspecified",22
+MT,2009,Newborn affected by other forms of placental separation and hemorrhage,22
+MT,2009,Others,593
+MT,2010,"Bacterial sepsis of newborn, unspecified",50
+MT,2010,Newborn respiratory distress syndrome,39
+MT,2010,"Sepsis, unspecified organism",29
+MT,2010,Preterm [premature] newborn [other],26
+MT,2010,"Pneumonia, unspecified organism",24
+MT,2010,Others,540
+MT,2011,"Bacterial sepsis of newborn, unspecified",59
+MT,2011,Newborn respiratory distress syndrome,46
+MT,2011,"Congenital malformation of heart, unspecified",30
+MT,2011,"Sepsis, unspecified organism",26
+MT,2011,Ill-defined and unknown cause of mortality,21
+MT,2011,Others,539
+MT,2012,"Bacterial sepsis of newborn, unspecified",41
+MT,2012,Newborn respiratory distress syndrome,38
+MT,2012,"Congenital malformation of heart, unspecified",38
+MT,2012,"Infection specific to the perinatal period, unspecified",33
+MT,2012,Extreme immaturity of newborn,26
+MT,2012,Others,518
+MT,2013,"Bacterial sepsis of newborn, unspecified",59
+MT,2013,Newborn respiratory distress syndrome,43
+MT,2013,"Congenital malformation of heart, unspecified",25
+MT,2013,"Pneumonia, unspecified organism",23
+MT,2013,Newborn affected by maternal hypertensive disorders,21
+MT,2013,Others,587
+MT,2014,Newborn respiratory distress syndrome,61
+MT,2014,"Bacterial sepsis of newborn, unspecified",61
+MT,2014,"Congenital malformation of heart, unspecified",35
+MT,2014,"Pneumonia, unspecified organism",21
+MT,2014,Newborn affected by maternal hypertensive disorders,19
+MT,2014,Others,612
+MT,2015,"Bacterial sepsis of newborn, unspecified",61
+MT,2015,Newborn respiratory distress syndrome,39
+MT,2015,"Congenital malformation of heart, unspecified",28
+MT,2015,"Sepsis, unspecified organism",27
+MT,2015,Newborn affected by premature rupture of membranes,25
+MT,2015,Others,578
+GO,2000,Newborn respiratory distress syndrome,171
+GO,2000,Respiratory failure of newborn,138
+GO,2000,"Bacterial sepsis of newborn, unspecified",106
+GO,2000,"Congenital malformation of heart, unspecified",84
+GO,2000,"Sepsis, unspecified organism",43
+GO,2000,Others,794
+GO,2001,Newborn respiratory distress syndrome,174
+GO,2001,Respiratory failure of newborn,123
+GO,2001,"Bacterial sepsis of newborn, unspecified",92
+GO,2001,"Congenital malformation of heart, unspecified",83
+GO,2001,"Infection specific to the perinatal period, unspecified",40
+GO,2001,Others,765
+GO,2002,Newborn respiratory distress syndrome,183
+GO,2002,"Bacterial sepsis of newborn, unspecified",134
+GO,2002,Respiratory failure of newborn,110
+GO,2002,"Congenital malformation of heart, unspecified",85
+GO,2002,"Pneumonia, unspecified organism",38
+GO,2002,Others,820
+GO,2003,Newborn respiratory distress syndrome,197
+GO,2003,Respiratory failure of newborn,114
+GO,2003,"Bacterial sepsis of newborn, unspecified",90
+GO,2003,"Congenital malformation of heart, unspecified",79
+GO,2003,"Infection specific to the perinatal period, unspecified",33
+GO,2003,Others,819
+GO,2004,Newborn respiratory distress syndrome,210
+GO,2004,"Congenital malformation of heart, unspecified",111
+GO,2004,"Bacterial sepsis of newborn, unspecified",106
+GO,2004,Respiratory failure of newborn,94
+GO,2004,Meconium aspiration,48
+GO,2004,Others,798
+GO,2005,Newborn respiratory distress syndrome,164
+GO,2005,"Bacterial sepsis of newborn, unspecified",103
+GO,2005,Respiratory failure of newborn,91
+GO,2005,"Congenital malformation of heart, unspecified",69
+GO,2005,Meconium aspiration,41
+GO,2005,Others,780
+GO,2006,Newborn respiratory distress syndrome,156
+GO,2006,"Bacterial sepsis of newborn, unspecified",116
+GO,2006,"Congenital malformation of heart, unspecified",80
+GO,2006,"Infection specific to the perinatal period, unspecified",36
+GO,2006,Ill-defined and unknown cause of mortality,31
+GO,2006,Others,727
+GO,2007,Newborn respiratory distress syndrome,140
+GO,2007,"Bacterial sepsis of newborn, unspecified",125
+GO,2007,"Congenital malformation of heart, unspecified",74
+GO,2007,"Infection specific to the perinatal period, unspecified",46
+GO,2007,"Pneumonia, unspecified organism",35
+GO,2007,Others,660
+GO,2008,Newborn respiratory distress syndrome,137
+GO,2008,"Bacterial sepsis of newborn, unspecified",105
+GO,2008,"Congenital malformation of heart, unspecified",76
+GO,2008,Meconium aspiration,36
+GO,2008,Ill-defined and unknown cause of mortality,29
+GO,2008,Others,722
+GO,2009,Newborn respiratory distress syndrome,134
+GO,2009,"Bacterial sepsis of newborn, unspecified",117
+GO,2009,"Congenital malformation of heart, unspecified",77
+GO,2009,"Pneumonia, unspecified organism",40
+GO,2009,Meconium aspiration,30
+GO,2009,Others,637
+GO,2010,Newborn respiratory distress syndrome,110
+GO,2010,"Bacterial sepsis of newborn, unspecified",88
+GO,2010,"Congenital malformation of heart, unspecified",57
+GO,2010,Meconium aspiration,43
+GO,2010,"Pneumonia, unspecified organism",29
+GO,2010,Others,640
+GO,2011,"Bacterial sepsis of newborn, unspecified",114
+GO,2011,Newborn respiratory distress syndrome,91
+GO,2011,"Congenital malformation of heart, unspecified",72
+GO,2011,Meconium aspiration,34
+GO,2011,Newborn affected by chorioamnionitis,23
+GO,2011,Others,768
+GO,2012,Newborn respiratory distress syndrome,118
+GO,2012,"Bacterial sepsis of newborn, unspecified",104
+GO,2012,"Congenital malformation of heart, unspecified",91
+GO,2012,Meconium aspiration,32
+GO,2012,"Congenital pneumonia, unspecified",29
+GO,2012,Others,784
+GO,2013,"Bacterial sepsis of newborn, unspecified",100
+GO,2013,Newborn respiratory distress syndrome,99
+GO,2013,"Congenital malformation of heart, unspecified",71
+GO,2013,Meconium aspiration,34
+GO,2013,"Pneumonia, unspecified organism",33
+GO,2013,Others,804
+GO,2014,Newborn respiratory distress syndrome,86
+GO,2014,"Bacterial sepsis of newborn, unspecified",83
+GO,2014,"Congenital malformation of heart, unspecified",69
+GO,2014,Meconium aspiration,31
+GO,2014,Newborn affected by maternal hypertensive disorders,31
+GO,2014,Others,778
+GO,2015,"Bacterial sepsis of newborn, unspecified",110
+GO,2015,Newborn respiratory distress syndrome,67
+GO,2015,"Congenital malformation of heart, unspecified",62
+GO,2015,Newborn affected by premature rupture of membranes,35
+GO,2015,Newborn affected by maternal hypertensive disorders,34
+GO,2015,Others,787
+DF,2000,Newborn respiratory distress syndrome,123
+DF,2000,Respiratory failure of newborn,59
+DF,2000,"Congenital malformation of heart, unspecified",50
+DF,2000,"Birth asphyxia, unspecified",48
+DF,2000,Bacterial sepsis of newborn,34
+DF,2000,Others,665
+DF,2001,Newborn respiratory distress syndrome,129
+DF,2001,Respiratory failure of newborn,84
+DF,2001,Bacterial sepsis of newborn,53
+DF,2001,"Congenital malformation of heart, unspecified",50
+DF,2001,"Birth asphyxia, unspecified",38
+DF,2001,Others,638
+DF,2002,Newborn respiratory distress syndrome,135
+DF,2002,Respiratory failure of newborn,52
+DF,2002,"Congenital malformation of heart, unspecified",48
+DF,2002,Bacterial sepsis of newborn,35
+DF,2002,"Infectious gastroenteritis and colitis, unspecified",34
+DF,2002,Others,582
+DF,2003,Newborn respiratory distress syndrome,112
+DF,2003,Extremely low birth weight newborn,62
+DF,2003,"Birth asphyxia, unspecified",60
+DF,2003,"Congenital malformation of heart, unspecified",59
+DF,2003,Bacterial sepsis of newborn,43
+DF,2003,Others,547
+DF,2004,Newborn respiratory distress syndrome,77
+DF,2004,"Congenital malformation of heart, unspecified",54
+DF,2004,Bacterial sepsis of newborn,49
+DF,2004,"Birth asphyxia, unspecified",45
+DF,2004,Severe birth asphyxia,36
+DF,2004,Others,622
+DF,2005,Extremely low birth weight newborn,65
+DF,2005,Newborn respiratory distress syndrome,62
+DF,2005,"Bacterial sepsis of newborn, unspecified",58
+DF,2005,"Congenital malformation of heart, unspecified",46
+DF,2005,"Pneumonia, unspecified organism",24
+DF,2005,Others,612
+DF,2006,Extremely low birth weight newborn,86
+DF,2006,"Bacterial sepsis of newborn, unspecified",66
+DF,2006,Newborn respiratory distress syndrome,43
+DF,2006,"Congenital malformation of heart, unspecified",33
+DF,2006,"Congenital pneumonia, unspecified",25
+DF,2006,Others,557
+DF,2007,Extremely low birth weight newborn,63
+DF,2007,"Bacterial sepsis of newborn, unspecified",41
+DF,2007,Newborn respiratory distress syndrome,39
+DF,2007,"Congenital malformation of heart, unspecified",34
+DF,2007,"Multiple congenital malformations, not elsewhere classified",28
+DF,2007,Others,509
+DF,2008,Extremely low birth weight newborn,74
+DF,2008,Newborn respiratory distress syndrome,47
+DF,2008,"Congenital malformation of heart, unspecified",43
+DF,2008,"Bacterial sepsis of newborn, unspecified",34
+DF,2008,Severe birth asphyxia,31
+DF,2008,Others,498
+DF,2009,Newborn respiratory distress syndrome,51
+DF,2009,Extremely low birth weight newborn,45
+DF,2009,"Congenital malformation of heart, unspecified",34
+DF,2009,Newborn affected by maternal hypertensive disorders,30
+DF,2009,Newborn affected by maternal renal and urinary tract diseases,23
+DF,2009,Others,546
+DF,2010,Newborn respiratory distress syndrome,52
+DF,2010,Extremely low birth weight newborn,51
+DF,2010,"Congenital malformation of heart, unspecified",47
+DF,2010,"Infection specific to the perinatal period, unspecified",27
+DF,2010,Severe birth asphyxia,26
+DF,2010,Others,558
+DF,2011,"Congenital malformation of heart, unspecified",43
+DF,2011,Extremely low birth weight newborn,40
+DF,2011,Newborn respiratory distress syndrome,33
+DF,2011,Newborn affected by maternal hypertensive disorders,32
+DF,2011,"Bacterial sepsis of newborn, unspecified",31
+DF,2011,Others,545
+DF,2012,"Bacterial sepsis of newborn, unspecified",40
+DF,2012,Newborn affected by maternal hypertensive disorders,39
+DF,2012,Extremely low birth weight newborn,33
+DF,2012,Newborn respiratory distress syndrome,31
+DF,2012,"Congenital malformation of heart, unspecified",26
+DF,2012,Others,586
+DF,2013,Newborn affected by maternal hypertensive disorders,53
+DF,2013,"Bacterial sepsis of newborn, unspecified",45
+DF,2013,Extremely low birth weight newborn,40
+DF,2013,Newborn affected by maternal renal and urinary tract diseases,35
+DF,2013,Newborn respiratory distress syndrome,31
+DF,2013,Others,580
+DF,2014,"Bacterial sepsis of newborn, unspecified",45
+DF,2014,Newborn affected by maternal hypertensive disorders,42
+DF,2014,Extremely low birth weight newborn,37
+DF,2014,Newborn respiratory distress syndrome,30
+DF,2014,Newborn affected by chorioamnionitis,29
+DF,2014,Others,564
+DF,2015,"Bacterial sepsis of newborn, unspecified",41
+DF,2015,Newborn affected by maternal hypertensive disorders,40
+DF,2015,Newborn affected by incompetent cervix,29
+DF,2015,Newborn affected by maternal renal and urinary tract diseases,27
+DF,2015,Newborn affected by premature rupture of membranes,27
+DF,2015,Others,497
